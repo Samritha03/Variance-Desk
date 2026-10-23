@@ -18,6 +18,8 @@ The math is done by code, never by the AI.
 
 ![How Variance Desk works](docs/architecture-pipeline.png)
 
+![Behind the scenes: the backend](docs/backend-pipeline.png)
+
 ## Run it
 
 ```bash
