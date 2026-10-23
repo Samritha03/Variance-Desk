@@ -1,4 +1,4 @@
-# Variance Desk
+## Variance Desk
 
 A small app that helps a finance team explain **why** actual numbers differ from the budget each month.
 
@@ -6,7 +6,7 @@ An AI agent searches invoices, emails and notes for the reason behind each big d
 
 All data in this project is fictional.
 
-## How it works
+### How it works
 
 1. **Documents:** add the invoices, emails and notes to search.
 2. **Mapping:** match each company's account names to one standard list.
@@ -20,7 +20,7 @@ The math is done by code, never by the AI.
 
 ![Behind the scenes: the backend](docs/backend-pipeline.png)
 
-## Run it
+### Run it
 
 ```bash
 python3 -m venv .venv
@@ -39,19 +39,16 @@ export GEMINI_API_KEY="your-key-here"
 
 Or, if you use Claude: `export ANTHROPIC_API_KEY="your-key-here"`
 
-## Good to know
+### Good to know
 
 - The AI agent was tested on a small set of cases, not at full scale.
 - This is a prototype built to show an approach, not a finished product.
 
 ![The Variance Desk app](docs/app.png)
 
-## Future ideas
+### Future ideas
 
 - **OCR for scanned documents:** read scanned PDFs and photos of invoices, not just text-based files.
 - **Connect to real systems:** pull the ledger and documents straight from accounting software and email, instead of uploading files by hand.
 - **Save work and add login:** keep accepted reasons and mappings between sessions, and let a team use the app with their own accounts.
 
-## License
-
-MIT. See `LICENSE`.
