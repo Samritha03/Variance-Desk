@@ -103,7 +103,7 @@ Everything works without a key (keyword baseline, template writer). For the Clau
 
 The app deploys two ways:
 
-- **Simplest: one container.** `docker build -t variance-desk .` then run it on Render, Railway, Fly.io or Cloud Run. Add `ANTHROPIC_API_KEY` as a secret. The container serves the API and the React app together.
+- **Simplest: one container.** `docker build -f docker/Dockerfile -t variance-desk .` (run from the project root) then run it on Render, Railway, Fly.io or Cloud Run. Add `ANTHROPIC_API_KEY` as a secret. The container serves the API and the React app together.
 - **Split: Vercel + API host.** Deploy `web/` to Vercel with `VITE_API_URL=https://your-api-host`; deploy the API from the Dockerfile; set `GVE_CORS=https://your-app.vercel.app` on the API. Long agent runs stream from the API host, not Vercel functions.
 
 The API keeps uploaded files in memory only (20 most recent), which is fine for a demo; add storage and auth before real client data.
@@ -123,7 +123,7 @@ gve/variance.py    variance math
 web/               React app (Vite)
 data/              generators, sample GL, ledger, 20 documents, answer keys
 tests/             engine, agent (fake model) and API tests
-Dockerfile         one-container deploy
+docker/            Dockerfile and its ignore file (one-container deploy)
 ```
 
 ## Known limits
