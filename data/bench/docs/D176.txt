@@ -1,0 +1,9 @@
+id: D176
+date: 2025-04-12
+type: email
+title: Landlord notice: office expansion
+---
+From: Jonas Berg
+To: Leo Marchetti
+
+Jonas Berg: Harbor Commercial sent a deposit for the added floor. One-time item, not a change to monthly rent.

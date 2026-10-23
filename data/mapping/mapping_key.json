@@ -1,0 +1,258 @@
+{
+ "Northwind Retail|40100": {
+  "target": "4000",
+  "tag": "synonym"
+ },
+ "Northwind Retail|40500": {
+  "target": "NONE",
+  "tag": "no home"
+ },
+ "Northwind Retail|41000": {
+  "target": "4100",
+  "tag": "synonym"
+ },
+ "Northwind Retail|49000": {
+  "target": "4900",
+  "tag": "synonym"
+ },
+ "Northwind Retail|50100": {
+  "target": "5000",
+  "tag": "synonym"
+ },
+ "Northwind Retail|50300": {
+  "target": "5100",
+  "tag": "synonym"
+ },
+ "Northwind Retail|60100": {
+  "target": "6000",
+  "tag": "synonym"
+ },
+ "Northwind Retail|60150": {
+  "target": "6000",
+  "tag": "abbreviation"
+ },
+ "Northwind Retail|60200": {
+  "target": "6010",
+  "tag": "synonym"
+ },
+ "Northwind Retail|60250": {
+  "target": "6030",
+  "tag": "ambiguous"
+ },
+ "Northwind Retail|61000": {
+  "target": "6100",
+  "tag": "synonym"
+ },
+ "Northwind Retail|61500": {
+  "target": "6200",
+  "tag": "synonym"
+ },
+ "Northwind Retail|62000": {
+  "target": "6300",
+  "tag": "synonym"
+ },
+ "Northwind Retail|63000": {
+  "target": "6400",
+  "tag": "synonym"
+ },
+ "Northwind Retail|63100": {
+  "target": "6410",
+  "tag": "synonym"
+ },
+ "Northwind Retail|64000": {
+  "target": "6500",
+  "tag": "synonym"
+ },
+ "Northwind Retail|65000": {
+  "target": "6600",
+  "tag": "synonym"
+ },
+ "Northwind Retail|66000": {
+  "target": "6800",
+  "tag": "synonym"
+ },
+ "Northwind Retail|67000": {
+  "target": "6900",
+  "tag": "exact"
+ },
+ "Northwind Retail|68000": {
+  "target": "6950",
+  "tag": "synonym"
+ },
+ "Northwind Retail|69000": {
+  "target": "7000",
+  "tag": "abbreviation"
+ },
+ "Northwind Retail|69500": {
+  "target": "5000",
+  "tag": "ambiguous"
+ },
+ "Kestrel Logistics GmbH|800000": {
+  "target": "4100",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|800500": {
+  "target": "4100",
+  "tag": "synonym"
+ },
+ "Kestrel Logistics GmbH|890000": {
+  "target": "4900",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|500000": {
+  "target": "5000",
+  "tag": "ambiguous"
+ },
+ "Kestrel Logistics GmbH|500500": {
+  "target": "5000",
+  "tag": "ambiguous"
+ },
+ "Kestrel Logistics GmbH|600000": {
+  "target": "6000",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|600500": {
+  "target": "6010",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|601000": {
+  "target": "6020",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|610000": {
+  "target": "6100",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|615000": {
+  "target": "6200",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|620000": {
+  "target": "6400",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|621000": {
+  "target": "6410",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|630000": {
+  "target": "6500",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|640000": {
+  "target": "6600",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|650000": {
+  "target": "6800",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|660000": {
+  "target": "6900",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|670000": {
+  "target": "6950",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|680000": {
+  "target": "7000",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|690000": {
+  "target": "7200",
+  "tag": "foreign"
+ },
+ "Kestrel Logistics GmbH|699000": {
+  "target": "NONE",
+  "tag": "no home"
+ },
+ "Kestrel Logistics GmbH|699500": {
+  "target": "NONE",
+  "tag": "no home"
+ },
+ "Bayside Software|4000": {
+  "target": "4200",
+  "tag": "code clash"
+ },
+ "Bayside Software|4010": {
+  "target": "4100",
+  "tag": "synonym"
+ },
+ "Bayside Software|4050": {
+  "target": "4900",
+  "tag": "synonym"
+ },
+ "Bayside Software|5000": {
+  "target": "5200",
+  "tag": "code clash"
+ },
+ "Bayside Software|5050": {
+  "target": "6000",
+  "tag": "ambiguous"
+ },
+ "Bayside Software|6000": {
+  "target": "6000",
+  "tag": "synonym"
+ },
+ "Bayside Software|6010": {
+  "target": "6010",
+  "tag": "synonym"
+ },
+ "Bayside Software|6020": {
+  "target": "6020",
+  "tag": "synonym"
+ },
+ "Bayside Software|6030": {
+  "target": "6030",
+  "tag": "exact"
+ },
+ "Bayside Software|6100": {
+  "target": "6100",
+  "tag": "synonym"
+ },
+ "Bayside Software|6110": {
+  "target": "6200",
+  "tag": "synonym"
+ },
+ "Bayside Software|6200": {
+  "target": "6400",
+  "tag": "synonym"
+ },
+ "Bayside Software|6300": {
+  "target": "6500",
+  "tag": "synonym"
+ },
+ "Bayside Software|6310": {
+  "target": "6650",
+  "tag": "synonym"
+ },
+ "Bayside Software|6400": {
+  "target": "6600",
+  "tag": "abbreviation"
+ },
+ "Bayside Software|6500": {
+  "target": "6800",
+  "tag": "code clash"
+ },
+ "Bayside Software|6510": {
+  "target": "6800",
+  "tag": "synonym"
+ },
+ "Bayside Software|6600": {
+  "target": "6900",
+  "tag": "synonym"
+ },
+ "Bayside Software|6700": {
+  "target": "6950",
+  "tag": "synonym"
+ },
+ "Bayside Software|6800": {
+  "target": "NONE",
+  "tag": "vague"
+ },
+ "Bayside Software|6900": {
+  "target": "NONE",
+  "tag": "no home"
+ }
+}

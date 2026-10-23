@@ -1,0 +1,29 @@
+code,name,type,description
+4000,Product Revenue,revenue,Sales of physical goods to customers
+4100,Services Revenue,revenue,"Installation, implementation, support, logistics and other services billed to customers"
+4200,Subscription Revenue,revenue,Recurring software subscription and licence fees
+4900,Other Income,revenue,"Interest income, gains and other non-operating income"
+5000,Cost of Goods Sold,expense,"Direct cost of what is sold: inventory purchases, materials, carriers and fuel for delivered services"
+5100,Inbound Freight,expense,Freight paid to bring inventory in from suppliers
+5200,Hosting Costs,expense,Cloud hosting that serves customers' production usage
+6000,Salaries & Wages,expense,Base pay for employees
+6010,Payroll Taxes & Benefits,expense,"Employer payroll taxes, health insurance, pensions, social contributions"
+6020,Bonuses & Commissions,expense,"Variable pay: sales commissions, bonuses"
+6030,Recruiting,expense,"Recruiter and staffing agency placement fees, job advertising"
+6100,Digital Advertising,expense,Paid online advertising and customer acquisition
+6200,Events & Trade Shows,expense,"Trade shows, conferences, exhibits and field events"
+6300,Freight & Shipping,expense,Outbound delivery and shipping to customers
+6400,Facilities & Rent,expense,"Office, store and warehouse rent and lease costs"
+6410,Utilities,expense,"Electricity, gas, water, telecom"
+6500,Software & Cloud,expense,"Internal software subscriptions, IT licences and cloud tools used to run the business"
+6600,Travel & Entertainment,expense,"Travel, meals and entertainment"
+6650,Contractors & Agencies,expense,External contractors and agencies for project work
+6800,Professional Fees,expense,"Legal, audit, accounting, tax and consulting fees"
+6900,Insurance,expense,"Business, liability and cyber insurance premiums"
+6950,Bank & Card Fees,expense,Bank charges and payment processing fees
+7000,Depreciation & Amortization,expense,Depreciation of fixed assets and amortization
+7100,Bad Debt Expense,expense,Uncollectible receivables written off
+7200,Interest Expense,expense,Interest paid on borrowings
+7300,Income Taxes,expense,Income tax expense
+7400,Repairs & Maintenance,expense,Repairs and upkeep of equipment and premises
+7500,Office Supplies,expense,Stationery and consumables

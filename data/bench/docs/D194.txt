@@ -1,0 +1,9 @@
+id: D194
+date: 2025-10-16
+type: email
+title: Proposal: expanded supplier volume rebate (not approved)
+---
+From: Priya Nair
+To: Jonas Berg
+
+Proposal to add a second phase to the supplier volume rebate with Delta Textile Mills. This was reviewed and not approved, so no spend is planned. Revisit next year.

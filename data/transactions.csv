@@ -1,0 +1,331 @@
+txn_id,date,month,department,account_code,account_name,counterparty,description,amount,reference
+T00001,2026-01-19,2026-01,Engineering,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,132264.34,R-00001
+T00002,2026-01-05,2026-01,Engineering,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,77647.45,R-00002
+T00003,2026-01-04,2026-01,Engineering,6500,Software & Cloud,Amazon Web Services,Regular monthly charges,10493.26,R-00003
+T00004,2026-01-19,2026-01,Engineering,6500,Software & Cloud,Atlassian,Regular monthly charges,15771.9,R-00004
+T00005,2026-01-15,2026-01,Engineering,6500,Software & Cloud,Workspace subscriptions,Regular monthly charges,10924.45,R-00005
+T00006,2026-01-03,2026-01,Engineering,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,12999.03,R-00006
+T00007,2026-01-20,2026-01,Engineering,6650,Contractors & Agencies,Contract developers,Regular monthly charges,12550.59,R-00007
+T00008,2026-01-11,2026-01,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,25927.77,R-00008
+T00009,2026-01-15,2026-01,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,52353.65,R-00009
+T00010,2026-01-20,2026-01,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,12110.63,R-00010
+T00011,2026-01-13,2026-01,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,7165.99,R-00011
+T00012,2026-01-05,2026-01,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,7474.43,R-00012
+T00013,2026-01-21,2026-01,G&A,6900,Insurance,Insurance premium,Regular monthly charges,9197.65,R-00013
+T00014,2026-01-16,2026-01,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,31778.93,R-00014
+T00015,2026-01-13,2026-01,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,25294.52,R-00015
+T00016,2026-01-12,2026-01,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,11580.52,R-00016
+T00017,2026-01-25,2026-01,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,14620.86,R-00017
+T00018,2026-01-16,2026-01,Marketing,6100,Digital Advertising,Google Ads,Regular monthly charges,17333.67,R-00018
+T00019,2026-01-12,2026-01,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,11630.93,R-00019
+T00020,2026-01-06,2026-01,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,8432.99,R-00020
+T00021,2026-01-19,2026-01,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,10031.84,R-00021
+T00022,2026-01-20,2026-01,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,4849.57,R-00022
+T00023,2026-01-10,2026-01,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Regular monthly charges,124861.43,R-00023
+T00024,2026-01-17,2026-01,Operations,5000,Cost of Goods Sold,Eastgate Components,Regular monthly charges,113248.42,R-00024
+T00025,2026-01-24,2026-01,Operations,5000,Cost of Goods Sold,Delta Textile Mills,Regular monthly charges,149279.17,R-00025
+T00026,2026-01-16,2026-01,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,40108.33,R-00026
+T00027,2026-01-11,2026-01,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,50040.24,R-00027
+T00028,2026-01-21,2026-01,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,26110.64,R-00028
+T00029,2026-01-05,2026-01,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,17072.96,R-00029
+T00030,2026-01-08,2026-01,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,30350.63,R-00030
+T00031,2026-01-16,2026-01,Sales,4000,Product Revenue,Bayline Retail Group,Monthly invoices,271975.5,R-00031
+T00032,2026-01-14,2026-01,Sales,4000,Product Revenue,Larkspur Home,Monthly invoices,386508.75,R-00032
+T00033,2026-01-19,2026-01,Sales,4000,Product Revenue,Oakridge Stores,Monthly invoices,197990.99,R-00033
+T00034,2026-01-15,2026-01,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,71390.47,R-00034
+T00035,2026-01-13,2026-01,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,45489.58,R-00035
+T00036,2026-01-23,2026-01,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,68504.25,R-00036
+T00037,2026-01-09,2026-01,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,74122.33,R-00037
+T00038,2026-01-15,2026-01,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,10560.14,R-00038
+T00039,2026-01-19,2026-01,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,7863.11,R-00039
+T00040,2026-02-21,2026-02,Engineering,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,112811.92,R-00040
+T00041,2026-02-22,2026-02,Engineering,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,99106.66,R-00041
+T00042,2026-02-17,2026-02,Engineering,6500,Software & Cloud,Workspace subscriptions,Regular monthly charges,19229.13,R-00042
+T00043,2026-02-22,2026-02,Engineering,6500,Software & Cloud,Amazon Web Services,Regular monthly charges,19162.97,R-00043
+T00044,2026-02-07,2026-02,Engineering,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,11628.65,R-00044
+T00045,2026-02-05,2026-02,Engineering,6650,Contractors & Agencies,Contract developers,Regular monthly charges,13640.61,R-00045
+T00046,2026-02-05,2026-02,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,36901.6,R-00046
+T00047,2026-02-13,2026-02,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,44330.36,R-00047
+T00048,2026-02-08,2026-02,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,12338.69,R-00048
+T00049,2026-02-17,2026-02,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,8342.46,R-00049
+T00050,2026-02-05,2026-02,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,6614.81,R-00050
+T00051,2026-02-16,2026-02,G&A,6900,Insurance,Insurance premium,Regular monthly charges,8810.96,R-00051
+T00052,2026-02-12,2026-02,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,29595.49,R-00052
+T00053,2026-02-25,2026-02,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,30172.72,R-00053
+T00054,2026-02-24,2026-02,Marketing,6100,Digital Advertising,Google Ads,Regular monthly charges,11282.71,R-00054
+T00055,2026-02-19,2026-02,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,20103.75,R-00055
+T00056,2026-02-02,2026-02,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,13131.67,R-00056
+T00057,2026-02-13,2026-02,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,8591.59,R-00057
+T00058,2026-02-26,2026-02,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,11232.34,R-00058
+T00059,2026-02-26,2026-02,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,7141.01,R-00059
+T00060,2026-02-08,2026-02,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,8058.61,R-00060
+T00061,2026-02-25,2026-02,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Regular monthly charges,176768.93,R-00061
+T00062,2026-02-02,2026-02,Operations,5000,Cost of Goods Sold,Delta Textile Mills,Regular monthly charges,231267.57,R-00062
+T00063,2026-02-13,2026-02,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,36669.66,R-00063
+T00064,2026-02-16,2026-02,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,52415.91,R-00064
+T00065,2026-02-08,2026-02,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,21056.7,R-00065
+T00066,2026-02-12,2026-02,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,21195.2,R-00066
+T00067,2026-02-21,2026-02,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,29389.67,R-00067
+T00068,2026-02-23,2026-02,Sales,4000,Product Revenue,Oakridge Stores,Monthly invoices,562308.46,R-00068
+T00069,2026-02-05,2026-02,Sales,4000,Product Revenue,Summit Trail Co.,Monthly invoices,302910.27,R-00069
+T00070,2026-02-22,2026-02,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,70679.83,R-00070
+T00071,2026-02-12,2026-02,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,51054.95,R-00071
+T00072,2026-02-25,2026-02,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,55631.98,R-00072
+T00073,2026-02-07,2026-02,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,81984.77,R-00073
+T00074,2026-02-27,2026-02,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,6540.08,R-00074
+T00075,2026-02-22,2026-02,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,12010.06,R-00075
+T00076,2026-03-02,2026-03,Engineering,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,88189.06,R-00076
+T00077,2026-03-02,2026-03,Engineering,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,126385.94,R-00077
+T00078,2026-03-08,2026-03,Engineering,6500,Software & Cloud,Amazon Web Services,Regular monthly charges,16123.82,R-00078
+T00079,2026-03-02,2026-03,Engineering,6500,Software & Cloud,Atlassian,Regular monthly charges,22088.6,R-00079
+T00080,2026-03-12,2026-03,Engineering,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,11505.16,R-00080
+T00081,2026-03-10,2026-03,Engineering,6650,Contractors & Agencies,Contract developers,Regular monthly charges,13919.16,R-00081
+T00082,2026-03-16,2026-03,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,47666.26,R-00082
+T00083,2026-03-23,2026-03,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,31694.4,R-00083
+T00084,2026-03-19,2026-03,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,11858.89,R-00084
+T00085,2026-03-26,2026-03,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,7809.84,R-00085
+T00086,2026-03-27,2026-03,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,6950.58,R-00086
+T00087,2026-03-06,2026-03,G&A,6900,Insurance,Insurance premium,Regular monthly charges,8938.09,R-00087
+T00088,2026-03-19,2026-03,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,27080.14,R-00088
+T00089,2026-03-17,2026-03,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,31921.6,R-00089
+T00090,2026-03-26,2026-03,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,22313.01,R-00090
+T00091,2026-03-05,2026-03,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,22948.17,R-00091
+T00092,2026-03-18,2026-03,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,9364.9,R-00092
+T00093,2026-03-21,2026-03,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,10693.44,R-00093
+T00094,2026-03-18,2026-03,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,6739.62,R-00094
+T00095,2026-03-09,2026-03,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,8342.39,R-00095
+T00096,2026-03-04,2026-03,Operations,5000,Cost of Goods Sold,Eastgate Components,Regular monthly charges,118288.71,R-00096
+T00097,2026-03-23,2026-03,Operations,5000,Cost of Goods Sold,Delta Textile Mills,Regular monthly charges,116220.31,R-00097
+T00098,2026-03-09,2026-03,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Regular monthly charges,158954.61,R-00098
+T00099,2026-03-26,2026-03,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,43568.61,R-00099
+T00100,2026-03-06,2026-03,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,47081.91,R-00100
+T00101,2026-03-09,2026-03,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,21485.15,R-00101
+T00102,2026-03-25,2026-03,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,22599.8,R-00102
+T00103,2026-03-17,2026-03,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,144535.65,R-00103
+T00104,2026-03-14,2026-03,Sales,4000,Product Revenue,Bayline Retail Group,Monthly invoices,391561.6,R-00104
+T00105,2026-03-12,2026-03,Sales,4000,Product Revenue,Larkspur Home,Monthly invoices,468928.67,R-00105
+T00106,2026-03-02,2026-03,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,52998.57,R-00106
+T00107,2026-03-12,2026-03,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,73018.27,R-00107
+T00108,2026-03-11,2026-03,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,67349.72,R-00108
+T00109,2026-03-18,2026-03,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,75251.67,R-00109
+T00110,2026-03-10,2026-03,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,12191.59,R-00110
+T00111,2026-03-10,2026-03,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,6052.83,R-00111
+T00112,2026-04-23,2026-04,Engineering,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,104854.2,R-00112
+T00113,2026-04-10,2026-04,Engineering,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,109310.87,R-00113
+T00114,2026-04-15,2026-04,Engineering,6500,Software & Cloud,Atlassian,Regular monthly charges,10249.42,R-00114
+T00115,2026-04-04,2026-04,Engineering,6500,Software & Cloud,Workspace subscriptions,Regular monthly charges,9859.5,R-00115
+T00116,2026-04-10,2026-04,Engineering,6500,Software & Cloud,Amazon Web Services,Regular monthly charges,17559.79,R-00116
+T00117,2026-04-04,2026-04,Engineering,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,8443.8,R-00117
+T00118,2026-04-10,2026-04,Engineering,6650,Contractors & Agencies,Contract developers,Regular monthly charges,16267.23,R-00118
+T00119,2026-04-10,2026-04,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,35585.96,R-00119
+T00120,2026-04-21,2026-04,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,42575.14,R-00120
+T00121,2026-04-18,2026-04,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,12149.15,R-00121
+T00122,2026-04-11,2026-04,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,7839.5,R-00122
+T00123,2026-04-22,2026-04,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,7213.91,R-00123
+T00124,2026-04-11,2026-04,G&A,6900,Insurance,Insurance premium,Regular monthly charges,9155.36,R-00124
+T00125,2026-04-10,2026-04,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,34993.71,R-00125
+T00126,2026-04-03,2026-04,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,24503.96,R-00126
+T00127,2026-04-16,2026-04,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,25276.2,R-00127
+T00128,2026-04-05,2026-04,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,19906.9,R-00128
+T00129,2026-04-08,2026-04,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,12566.34,R-00129
+T00130,2026-04-09,2026-04,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,7726.77,R-00130
+T00131,2026-04-03,2026-04,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,7827.03,R-00131
+T00132,2026-04-06,2026-04,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,7439.68,R-00132
+T00133,2026-04-23,2026-04,Operations,5000,Cost of Goods Sold,Delta Textile Mills,Regular monthly charges,239981.67,R-00133
+T00134,2026-04-14,2026-04,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Regular monthly charges,163695.13,R-00134
+T00135,2026-04-10,2026-04,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,41158.85,R-00135
+T00136,2026-04-16,2026-04,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,48410.72,R-00136
+T00137,2026-04-19,2026-04,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,21086.41,R-00137
+T00138,2026-04-12,2026-04,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,21219.9,R-00138
+T00139,2026-04-11,2026-04,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,29150.03,R-00139
+T00140,2026-04-17,2026-04,Sales,4000,Product Revenue,Summit Trail Co.,Monthly invoices,365795.2,R-00140
+T00141,2026-04-10,2026-04,Sales,4000,Product Revenue,Bayline Retail Group,Monthly invoices,551139.27,R-00141
+T00142,2026-04-06,2026-04,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,42637.57,R-00142
+T00143,2026-04-14,2026-04,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,79461.04,R-00143
+T00144,2026-04-04,2026-04,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,61954.75,R-00144
+T00145,2026-04-20,2026-04,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,81434.22,R-00145
+T00146,2026-04-11,2026-04,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,9340.59,R-00146
+T00147,2026-04-25,2026-04,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,7902.12,R-00147
+T00148,2026-05-06,2026-05,Engineering,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,99240.33,R-00148
+T00149,2026-05-18,2026-05,Engineering,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,104481.51,R-00149
+T00150,2026-05-22,2026-05,Engineering,6500,Software & Cloud,Amazon Web Services,Regular monthly charges,19742.3,R-00150
+T00151,2026-05-13,2026-05,Engineering,6500,Software & Cloud,Atlassian,Regular monthly charges,18720.32,R-00151
+T00152,2026-05-22,2026-05,Engineering,6650,Contractors & Agencies,Contract developers,Regular monthly charges,12034.9,R-00152
+T00153,2026-05-19,2026-05,Engineering,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,12671.72,R-00153
+T00154,2026-05-25,2026-05,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,26126.23,R-00154
+T00155,2026-05-18,2026-05,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,53676.8,R-00155
+T00156,2026-05-25,2026-05,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,11873.01,R-00156
+T00157,2026-05-26,2026-05,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,9258.06,R-00157
+T00158,2026-05-08,2026-05,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,5712.05,R-00158
+T00159,2026-05-17,2026-05,G&A,6900,Insurance,Insurance premium,Regular monthly charges,8620.35,R-00159
+T00160,2026-05-03,2026-05,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,37351.25,R-00160
+T00161,2026-05-21,2026-05,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,23333.91,R-00161
+T00162,2026-05-24,2026-05,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,19278.41,R-00162
+T00163,2026-05-11,2026-05,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,24976.92,R-00163
+T00164,2026-05-23,2026-05,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,8781.99,R-00164
+T00165,2026-05-05,2026-05,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,11036.48,R-00165
+T00166,2026-05-16,2026-05,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,8689.1,R-00166
+T00167,2026-05-16,2026-05,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,6167.75,R-00167
+T00168,2026-05-17,2026-05,Operations,5000,Cost of Goods Sold,Eastgate Components,Regular monthly charges,220401.42,R-00168
+T00169,2026-05-02,2026-05,Operations,5000,Cost of Goods Sold,Delta Textile Mills,Regular monthly charges,173521.58,R-00169
+T00170,2026-05-16,2026-05,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,43488.04,R-00170
+T00171,2026-05-10,2026-05,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,47593.64,R-00171
+T00172,2026-05-25,2026-05,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,21785.54,R-00172
+T00173,2026-05-18,2026-05,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,22200.06,R-00173
+T00174,2026-05-06,2026-05,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,30499.04,R-00174
+T00175,2026-05-07,2026-05,Sales,4000,Product Revenue,Northgate Outfitters,Monthly invoices,270655.09,R-00175
+T00176,2026-05-02,2026-05,Sales,4000,Product Revenue,Summit Trail Co.,Monthly invoices,352695.51,R-00176
+T00177,2026-05-17,2026-05,Sales,4000,Product Revenue,Larkspur Home,Monthly invoices,248140.23,R-00177
+T00178,2026-05-14,2026-05,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,-69793.6,R-00178
+T00179,2026-05-12,2026-05,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,-55099.46,R-00179
+T00180,2026-05-14,2026-05,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,70643.62,R-00180
+T00181,2026-05-05,2026-05,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,71545.95,R-00181
+T00182,2026-05-14,2026-05,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,9854.95,R-00182
+T00183,2026-05-20,2026-05,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,8005.84,R-00183
+T00184,2026-06-10,2026-06,Engineering,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,103545.6,R-00184
+T00185,2026-06-05,2026-06,Engineering,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,110326.36,R-00185
+T00186,2026-06-10,2026-06,Engineering,6500,Software & Cloud,Amazon Web Services,Regular monthly charges,22505.68,R-00186
+T00187,2026-06-15,2026-06,Engineering,6500,Software & Cloud,Workspace subscriptions,Regular monthly charges,14607.38,R-00187
+T00188,2026-06-02,2026-06,Engineering,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,14074.09,R-00188
+T00189,2026-06-27,2026-06,Engineering,6650,Contractors & Agencies,Contract developers,Regular monthly charges,10797.51,R-00189
+T00190,2026-06-16,2026-06,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,28333.73,R-00190
+T00191,2026-06-21,2026-06,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,52535.12,R-00191
+T00192,2026-06-17,2026-06,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,12071.32,R-00192
+T00193,2026-06-11,2026-06,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,7798.64,R-00193
+T00194,2026-06-10,2026-06,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,6978.55,R-00194
+T00195,2026-06-22,2026-06,G&A,6900,Insurance,Insurance premium,Regular monthly charges,8674.64,R-00195
+T00196,2026-06-07,2026-06,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,31269.73,R-00196
+T00197,2026-06-22,2026-06,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,27372.05,R-00197
+T00198,2026-06-19,2026-06,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,19820.99,R-00198
+T00199,2026-06-09,2026-06,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,24753.58,R-00199
+T00200,2026-06-09,2026-06,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,9822.74,R-00200
+T00201,2026-06-04,2026-06,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,10826.87,R-00201
+T00202,2026-06-27,2026-06,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,7266.64,R-00202
+T00203,2026-06-20,2026-06,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,7599.76,R-00203
+T00204,2026-06-08,2026-06,Operations,5000,Cost of Goods Sold,Delta Textile Mills,Regular monthly charges,163701.38,R-00204
+T00205,2026-06-14,2026-06,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Regular monthly charges,216157.28,R-00205
+T00206,2026-06-13,2026-06,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,43298.04,R-00206
+T00207,2026-06-06,2026-06,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,45939.14,R-00207
+T00208,2026-06-22,2026-06,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,25994.41,R-00208
+T00209,2026-06-16,2026-06,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,17908.92,R-00209
+T00210,2026-06-02,2026-06,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,28704.51,R-00210
+T00211,2026-06-17,2026-06,Sales,4000,Product Revenue,Northgate Outfitters,Monthly invoices,394260.05,R-00211
+T00212,2026-06-20,2026-06,Sales,4000,Product Revenue,Oakridge Stores,Monthly invoices,444554.4,R-00212
+T00213,2026-06-18,2026-06,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,48132.38,R-00213
+T00214,2026-06-16,2026-06,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,70703.63,R-00214
+T00215,2026-06-23,2026-06,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,70864.85,R-00215
+T00216,2026-06-05,2026-06,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,65644.79,R-00216
+T00217,2026-06-20,2026-06,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,8395.58,R-00217
+T00218,2026-06-03,2026-06,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,9784.32,R-00218
+T00219,2026-07-26,2026-07,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,40512.68,R-00219
+T00220,2026-07-05,2026-07,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,37634.17,R-00220
+T00221,2026-07-11,2026-07,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,11883.06,R-00221
+T00222,2026-07-02,2026-07,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,6065.93,R-00222
+T00223,2026-07-19,2026-07,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,8417.81,R-00223
+T00224,2026-07-10,2026-07,G&A,6900,Insurance,Insurance premium,Regular monthly charges,9142.91,R-00224
+T00225,2026-07-02,2026-07,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,30950.05,R-00225
+T00226,2026-07-15,2026-07,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,31452.62,R-00226
+T00227,2026-07-10,2026-07,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,14530.54,R-00227
+T00228,2026-07-09,2026-07,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,16580.99,R-00228
+T00229,2026-07-23,2026-07,Marketing,6100,Digital Advertising,Google Ads,Regular monthly charges,13619.19,R-00229
+T00230,2026-07-24,2026-07,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,9008.89,R-00230
+T00231,2026-07-15,2026-07,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,10479.36,R-00231
+T00232,2026-07-18,2026-07,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,6338.54,R-00232
+T00233,2026-07-04,2026-07,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,8728.69,R-00233
+T00234,2026-07-09,2026-07,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Regular monthly charges,155526.02,R-00234
+T00235,2026-07-16,2026-07,Operations,5000,Cost of Goods Sold,Delta Textile Mills,Regular monthly charges,229982.99,R-00235
+T00236,2026-07-21,2026-07,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,35894.82,R-00236
+T00237,2026-07-07,2026-07,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,57397.61,R-00237
+T00238,2026-07-21,2026-07,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,27560.39,R-00238
+T00239,2026-07-06,2026-07,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,13385.46,R-00239
+T00240,2026-07-08,2026-07,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,29520.19,R-00240
+T00241,2026-07-07,2026-07,Sales,4000,Product Revenue,Larkspur Home,Monthly invoices,380142.78,R-00241
+T00242,2026-07-14,2026-07,Sales,4000,Product Revenue,Bayline Retail Group,Monthly invoices,476198.63,R-00242
+T00243,2026-07-12,2026-07,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,60696.16,R-00243
+T00244,2026-07-08,2026-07,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,58406.1,R-00244
+T00245,2026-07-13,2026-07,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,58931.21,R-00245
+T00246,2026-07-12,2026-07,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,81883.16,R-00246
+T00247,2026-07-13,2026-07,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,7606.02,R-00247
+T00248,2026-07-15,2026-07,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,10403.81,R-00248
+T00249,2026-08-27,2026-08,Engineering,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,84625.07,R-00249
+T00250,2026-08-15,2026-08,Engineering,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,120179.85,R-00250
+T00251,2026-08-16,2026-08,Engineering,6500,Software & Cloud,Atlassian,Regular monthly charges,15206.97,R-00251
+T00252,2026-08-08,2026-08,Engineering,6500,Software & Cloud,Workspace subscriptions,Regular monthly charges,20767.59,R-00252
+T00253,2026-08-27,2026-08,Engineering,6650,Contractors & Agencies,Contract developers,Regular monthly charges,10116.83,R-00253
+T00254,2026-08-22,2026-08,Engineering,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,15050.49,R-00254
+T00255,2026-08-03,2026-08,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,40353.23,R-00255
+T00256,2026-08-10,2026-08,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,41778.73,R-00256
+T00257,2026-08-21,2026-08,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,12047.11,R-00257
+T00258,2026-08-03,2026-08,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,5812.68,R-00258
+T00259,2026-08-10,2026-08,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,9127.83,R-00259
+T00260,2026-08-11,2026-08,G&A,6900,Insurance,Insurance premium,Regular monthly charges,8766.98,R-00260
+T00261,2026-08-24,2026-08,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,39675.86,R-00261
+T00262,2026-08-16,2026-08,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,21581.33,R-00262
+T00263,2026-08-25,2026-08,Marketing,6100,Digital Advertising,Google Ads,Regular monthly charges,14440.91,R-00263
+T00264,2026-08-11,2026-08,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,20393.15,R-00264
+T00265,2026-08-24,2026-08,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,12412.26,R-00265
+T00266,2026-08-27,2026-08,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,12250.9,R-00266
+T00267,2026-08-27,2026-08,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,9206.03,R-00267
+T00268,2026-08-04,2026-08,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,9110.03,R-00268
+T00269,2026-08-22,2026-08,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,6045.37,R-00269
+T00270,2026-08-05,2026-08,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Regular monthly charges,160163.78,R-00270
+T00271,2026-08-04,2026-08,Operations,5000,Cost of Goods Sold,Eastgate Components,Regular monthly charges,206920.99,R-00271
+T00272,2026-08-24,2026-08,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,35986.01,R-00272
+T00273,2026-08-16,2026-08,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,53079.44,R-00273
+T00274,2026-08-23,2026-08,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,18748.6,R-00274
+T00275,2026-08-09,2026-08,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,22017.88,R-00275
+T00276,2026-08-11,2026-08,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,29894.41,R-00276
+T00277,2026-08-07,2026-08,Sales,4000,Product Revenue,Larkspur Home,Monthly invoices,261198.43,R-00277
+T00278,2026-08-09,2026-08,Sales,4000,Product Revenue,Summit Trail Co.,Monthly invoices,262831.75,R-00278
+T00279,2026-08-09,2026-08,Sales,4000,Product Revenue,Bayline Retail Group,Monthly invoices,309413.7,R-00279
+T00280,2026-08-09,2026-08,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,55187.36,R-00280
+T00281,2026-08-18,2026-08,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,58762.73,R-00281
+T00282,2026-08-17,2026-08,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,91600.13,R-00282
+T00283,2026-08-09,2026-08,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,44845.34,R-00283
+T00284,2026-08-03,2026-08,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,11308.79,R-00284
+T00285,2026-08-08,2026-08,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,6832.29,R-00285
+T00286,2026-09-21,2026-09,Engineering,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,127495.7,R-00286
+T00287,2026-09-10,2026-09,Engineering,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,93678.77,R-00287
+T00288,2026-09-30,2026-09,Engineering,6500,Software & Cloud,Amazon Web Services,"Compute, ingestion pipeline v2 workloads",7527.84,AWS-SEP-2026
+T00289,2026-09-30,2026-09,Engineering,6500,Software & Cloud,Amazon Web Services,Storage and data transfer increase,1026.52,AWS-SEP-2026-B
+T00290,2026-09-06,2026-09,Engineering,6500,Software & Cloud,Atlassian,Regular monthly charges,17624.3,R-00290
+T00291,2026-09-03,2026-09,Engineering,6500,Software & Cloud,Workspace subscriptions,Regular monthly charges,20375.7,R-00291
+T00292,2026-09-08,2026-09,Engineering,6650,Contractors & Agencies,Contract developers,Regular monthly charges,11985.92,R-00292
+T00293,2026-09-02,2026-09,Engineering,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,12449.75,R-00293
+T00294,2026-09-08,2026-09,G&A,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,37029.56,R-00294
+T00295,2026-09-03,2026-09,G&A,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,42060.47,R-00295
+T00296,2026-09-04,2026-09,G&A,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,11632.32,R-00296
+T00297,2026-09-24,2026-09,G&A,6800,Professional Fees,Whitfield & Crane LLP,"Annual financial statement audit, FY2026 fieldwork and report",34542.72,WC-4471
+T00298,2026-09-19,2026-09,G&A,6800,Professional Fees,Legal retainer,Regular monthly charges,9148.02,R-00298
+T00299,2026-09-04,2026-09,G&A,6800,Professional Fees,Accounting support,Regular monthly charges,5851.98,R-00299
+T00300,2026-09-24,2026-09,G&A,6900,Insurance,Insurance premium,Regular monthly charges,9355.3,R-00300
+T00301,2026-09-03,2026-09,Marketing,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,33708.53,R-00301
+T00302,2026-09-11,2026-09,Marketing,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,27765.58,R-00302
+T00303,2026-09-08,2026-09,Marketing,6100,Digital Advertising,Google Ads,Regular monthly charges,16031.28,R-00303
+T00304,2026-09-14,2026-09,Marketing,6100,Digital Advertising,Programmatic Partners,Regular monthly charges,17345.91,R-00304
+T00305,2026-09-25,2026-09,Marketing,6100,Digital Advertising,Meta Ads,Regular monthly charges,11061.1,R-00305
+T00306,2026-09-03,2026-09,Marketing,6200,Events & Trade Shows,Expo Partners LLC,"Booth 418 and display package, NorthAmerica Retail Expo",31463.43,EP-2209
+T00307,2026-09-26,2026-09,Marketing,6200,Events & Trade Shows,Skyline Travel,"Team travel, NorthAmerica Retail Expo (6 travelers)",10011.09,SK-77412
+T00308,2026-09-20,2026-09,Marketing,6200,Events & Trade Shows,Meridian Logistics,"Booth crates, round-trip freight, Retail Expo",6197.34,ML-30518
+T00309,2026-09-05,2026-09,Marketing,6200,Events & Trade Shows,Event sponsorships (recurring),Regular monthly charges,11327.75,R-00309
+T00310,2026-09-04,2026-09,Marketing,6200,Events & Trade Shows,Local pop-up events,Regular monthly charges,8672.25,R-00310
+T00311,2026-09-03,2026-09,Marketing,6650,Contractors & Agencies,Contract developers,Regular monthly charges,9334.72,R-00311
+T00312,2026-09-19,2026-09,Marketing,6650,Contractors & Agencies,Brightpath Agency,Regular monthly charges,5393.32,R-00312
+T00313,2026-09-13,2026-09,Operations,5000,Cost of Goods Sold,Eastgate Components,Regular monthly charges,133088.7,R-00313
+T00314,2026-09-25,2026-09,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Regular monthly charges,217660.11,R-00314
+T00315,2026-09-04,2026-09,Operations,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,40197.11,R-00315
+T00316,2026-09-05,2026-09,Operations,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,49450.45,R-00316
+T00317,2026-09-30,2026-09,Operations,6300,Freight & Shipping,Northline Freight,"Fuel surcharge (14%, effective Sept 1)",6259.13,NF-SC-0926
+T00318,2026-09-19,2026-09,Operations,6300,Freight & Shipping,Coastal Air Cargo,"Expedited air freight, 11 rush orders",5777.65,CA-55120
+T00319,2026-09-03,2026-09,Operations,6300,Freight & Shipping,Coastal Parcel,Regular monthly charges,16219.11,R-00319
+T00320,2026-09-17,2026-09,Operations,6300,Freight & Shipping,Northline Freight,Regular monthly charges,24480.89,R-00320
+T00321,2026-09-21,2026-09,Operations,6400,Facilities & Rent,Rivergate Properties,Regular monthly charges,30334.55,R-00321
+T00322,2026-09-08,2026-09,Sales,4000,Product Revenue,Northgate Outfitters,Monthly invoices,320692.52,R-00322
+T00323,2026-09-17,2026-09,Sales,4000,Product Revenue,Bayline Retail Group,Monthly invoices,202976.96,R-00323
+T00324,2026-09-07,2026-09,Sales,4000,Product Revenue,Summit Trail Co.,Monthly invoices,241065.5,R-00324
+T00325,2026-09-13,2026-09,Sales,4100,Services Revenue,Harbor Care Plans,Monthly invoices,75638.04,R-00325
+T00326,2026-09-05,2026-09,Sales,4100,Services Revenue,Install & Setup Services,Monthly invoices,40605.45,R-00326
+T00327,2026-09-26,2026-09,Sales,6000,Salaries & Wages,Payroll run (first half),Regular monthly charges,54980.82,R-00327
+T00328,2026-09-23,2026-09,Sales,6000,Salaries & Wages,Payroll run (second half),Regular monthly charges,91206.93,R-00328
+T00329,2026-09-22,2026-09,Sales,6600,Travel & Entertainment,Skyline Travel,Regular monthly charges,8775.64,R-00329
+T00330,2026-09-26,2026-09,Sales,6600,Travel & Entertainment,Corporate cards,Regular monthly charges,9282.98,R-00330

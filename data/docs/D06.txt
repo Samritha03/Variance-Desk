@@ -1,0 +1,10 @@
+id: D06
+date: 2026-09-29
+type: email
+title: September close: two enterprise orders slip to October
+---
+From: Jordan Reyes, Sales Operations
+To: Finance
+Subject: September close, two enterprise orders slip to October
+
+Two large enterprise orders will not ship in September. Cascade Outfitters (order value $38,200) is waiting on their purchase order approval, and Pinecrest Stores ($24,900) asked to delay delivery while they finish a warehouse remodel. Both are now expected to ship in October, on October 6 and October 13. Together that is about $63,100 of September product revenue moving into Q4. Smaller orders from other accounts offset a little of it. No orders were cancelled.

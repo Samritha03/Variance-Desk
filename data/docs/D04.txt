@@ -1,0 +1,7 @@
+id: D04
+date: 2026-09-20
+type: freight bill
+title: Meridian Logistics bill ML-30518
+---
+Meridian Logistics, bill of lading ML-30518.
+Three booth crates, round-trip freight to Columbus for the NorthAmerica Retail Expo. Total freight charges $6,197.34.

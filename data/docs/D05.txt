@@ -1,0 +1,10 @@
+id: D05
+date: 2026-09-10
+type: email
+title: Proposal: December holiday pop-up (not approved)
+---
+From: Marcus Hale, VP Marketing
+To: Marketing team
+Subject: Proposal: December holiday pop-up
+
+Draft for a holiday pop-up shop in December, estimated at $18,000. This is only a proposal. It has not been approved or booked. Hold until Q4 planning.

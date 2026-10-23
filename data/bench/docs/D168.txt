@@ -1,0 +1,6 @@
+id: D168
+date: 2024-04-20
+type: invoice
+title: Programmatic Partners statement PRO-4318 (last year)
+---
+Programmatic Partners, statement PRO-0000. holiday pre-season push: front-loaded holiday display buying. Total charges: $10,030.65.

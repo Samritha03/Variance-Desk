@@ -1,0 +1,9 @@
+id: D09
+date: 2026-10-02
+type: invoice
+title: AWS September 2026 usage summary
+---
+Amazon Web Services, September 2026 usage summary AWS-SEP-2026
+Compute (ingestion pipeline v2 workloads): $7,527.84
+Storage and data transfer increase: $1,026.52
+Charges accrued at September 30.

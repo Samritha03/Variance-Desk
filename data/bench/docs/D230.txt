@@ -1,0 +1,9 @@
+id: D230
+date: 2025-11-05
+type: email
+title: Estimate request: Harbor Care Plans
+---
+From: Priya Nair
+To: Elena Ortiz
+
+Harbor Care Plans sent a price estimate for follow-on work related to the support plan renewals. Quote only. Nothing has been ordered and nothing was charged this month.

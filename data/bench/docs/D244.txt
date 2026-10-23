@@ -1,0 +1,6 @@
+id: D244
+date: 2024-06-10
+type: memo
+title: Sales planning memo (last year)
+---
+Planning memo from last year. Annual increases take effect January 1. No other changes were approved.

@@ -1,0 +1,6 @@
+id: D192
+date: 2025-11-22
+type: statement
+title: Delta Textile Mills credit memo DEL-8430
+---
+Delta Textile Mills, credit memo DEL-8430. supplier volume rebate: a year-end volume rebate credited against purchases. Credit: $15,100.00.

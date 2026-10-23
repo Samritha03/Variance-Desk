@@ -1,0 +1,9 @@
+id: D105
+date: 2025-03-08
+type: email
+title: Estimate request: Expo Partners LLC
+---
+From: Aisha Karim
+To: Aisha Karim
+
+Expo Partners LLC sent a price estimate for follow-on work related to the Retail Expo. Quote only. Nothing has been ordered and nothing was charged this month.

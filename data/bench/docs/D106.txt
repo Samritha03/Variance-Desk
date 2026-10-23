@@ -1,0 +1,9 @@
+id: D106
+date: 2026-03-12
+type: email
+title: Approval to attend the Home and Garden Summit
+---
+From: Leo Marchetti
+To: Jonas Berg
+
+Leo Marchetti to Jonas Berg: approved. We will exhibit at the Home and Garden Summit this month. It was not in the plan. Summit Events Inc will bill the sponsorship and exhibitor fees, and the team travels the week before.

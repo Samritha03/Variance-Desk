@@ -1,0 +1,6 @@
+id: D254
+date: 2025-04-10
+type: memo
+title: Marketing planning memo (last year)
+---
+Planning memo from last year. Annual increases take effect January 1. No other changes were approved.

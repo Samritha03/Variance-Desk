@@ -1,0 +1,6 @@
+id: D128
+date: 2025-06-20
+type: invoice
+title: Coastal Parcel invoice COA-4487 (last year)
+---
+Coastal Parcel, invoice COA-0000. Includes rerouting around the congested port at premium rates. Total: $16,127.42.

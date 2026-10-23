@@ -1,0 +1,11 @@
+id: D02
+date: 2026-09-03
+type: invoice
+title: Expo Partners LLC invoice EP-2209
+---
+Expo Partners LLC
+Invoice EP-2209, dated September 3, 2026
+Bill to: Harborline Goods Co.
+Event: NorthAmerica Retail Expo, September 22-24
+Booth 418 (20x20 island) and display package: $31,463.43
+Terms: net 15. Total due: $31,463.43

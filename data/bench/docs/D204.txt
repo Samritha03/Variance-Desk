@@ -1,0 +1,9 @@
+id: D204
+date: 2025-10-26
+type: email
+title: Proposal: expanded annual sales kickoff (not approved)
+---
+From: Priya Nair
+To: Aisha Karim
+
+Proposal to add a second phase to the annual sales kickoff with Skyline Travel. This was reviewed and not approved, so no spend is planned. Revisit next year.

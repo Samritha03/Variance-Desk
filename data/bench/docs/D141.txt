@@ -1,0 +1,9 @@
+id: D141
+date: 2025-05-11
+type: email
+title: Month-end: two enterprise orders move out
+---
+From: Priya Nair
+To: Marcus Hale
+
+Priya Nair to Marcus Hale: Northgate Outfitters pushed their delivery acceptance to next month, so the two enterprise orders will land after month-end. The revenue shortfall is timing, not lost business.

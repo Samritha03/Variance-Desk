@@ -1,0 +1,10 @@
+id: D16
+date: 2026-09-18
+type: email
+title: Offer accepted: Senior ML Engineer
+---
+From: Recruiting
+To: Engineering leadership
+Subject: Offer accepted, Senior ML Engineer
+
+The Senior ML Engineer role in Engineering has been filled. Base salary $185,000. Start date: October 6.

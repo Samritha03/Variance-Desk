@@ -1,0 +1,9 @@
+id: D129
+date: 2026-05-16
+type: email
+title: Proposal: expanded port congestion rerouting (not approved)
+---
+From: Marcus Hale
+To: Marcus Hale
+
+Proposal to add a second phase to the port congestion rerouting with Coastal Parcel. This was reviewed and not approved, so no spend is planned. Revisit next year.

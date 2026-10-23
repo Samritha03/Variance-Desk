@@ -1,0 +1,6 @@
+id: D17
+date: 2026-09-05
+type: email
+title: Second floor kitchen remodel
+---
+Facilities notice. The second floor kitchen will be closed for remodeling from September 8 to September 19. Please use the first floor kitchen.

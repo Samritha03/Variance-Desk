@@ -1,0 +1,6 @@
+id: D256
+date: 2025-07-10
+type: memo
+title: Operations planning memo (last year)
+---
+Planning memo from last year. Annual increases take effect January 1. No other changes were approved.

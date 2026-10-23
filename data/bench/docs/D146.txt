@@ -1,0 +1,9 @@
+id: D146
+date: 2025-02-04
+type: email
+title: Month-end: holiday reorder move out
+---
+From: Tom Reyes
+To: Jonas Berg
+
+Tom Reyes to Jonas Berg: Bayline Retail Group delayed the reorder until their warehouse reopens, so the holiday reorder will land after month-end. The revenue shortfall is timing, not lost business.

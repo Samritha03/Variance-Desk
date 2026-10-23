@@ -1,0 +1,7 @@
+id: D07
+date: 2026-09-15
+type: note
+title: Weekly pipeline review
+---
+Weekly pipeline review, September 15.
+September product revenue is trending below plan. Cascade Outfitters and Pinecrest Stores are both flagged at risk of slipping past month-end. All other committed orders are on track.

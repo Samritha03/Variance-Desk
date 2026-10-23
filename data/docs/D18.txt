@@ -1,0 +1,6 @@
+id: D18
+date: 2026-09-12
+type: email
+title: Security awareness training
+---
+IT reminder. Annual security awareness training must be completed by September 30.

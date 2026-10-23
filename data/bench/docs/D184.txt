@@ -1,0 +1,9 @@
+id: D184
+date: 2025-09-15
+type: email
+title: Proposal: expanded security remediation (not approved)
+---
+From: Tom Reyes
+To: Marcus Hale
+
+Proposal to add a second phase to the security remediation with Brightpath Agency. This was reviewed and not approved, so no spend is planned. Revisit next year.

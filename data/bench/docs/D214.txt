@@ -1,0 +1,9 @@
+id: D214
+date: 2025-12-16
+type: email
+title: Proposal: expanded policy renewal (not approved)
+---
+From: Priya Nair
+To: Elena Ortiz
+
+Proposal to add a second phase to the policy renewal with Atlas Mutual. This was reviewed and not approved, so no spend is planned. Revisit next year.

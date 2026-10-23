@@ -1,0 +1,6 @@
+id: D172
+date: 2025-09-22
+type: invoice
+title: Rivergate Properties invoice RIV-4438
+---
+Rivergate Properties, invoice RIV-4438. lease reconciliation: a catch-up charge for last year's operating expenses. Amount due: $46,800.00.

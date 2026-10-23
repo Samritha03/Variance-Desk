@@ -1,0 +1,12 @@
+{
+  "note": "Results from runs on a real model, pasted from the terminal output of a local run. Not produced by this sandbox.",
+  "mapping": [
+    {"mapper": "gemini-mapper", "model": "gemini-3.8-flash", "run": "2026-10-20, local run",
+     "n": 64, "correct": 64, "accuracy": 1.0, "auto": 56, "auto_correct": 56, "auto_precision": 1.0, "wrong_auto": 0,
+     "review": 8, "wrong": 0, "wrong_caught": 0,
+     "by_tag": {"abbreviation": {"correct": 3, "n": 3}, "ambiguous": {"correct": 5, "n": 5}, "code clash": {"correct": 3, "n": 3},
+                "exact": {"correct": 2, "n": 2}, "foreign": {"correct": 16, "n": 16}, "no home": {"correct": 4, "n": 4},
+                "synonym": {"correct": 30, "n": 30}, "vague": {"correct": 1, "n": 1}}}
+  ],
+  "bench": []
+}

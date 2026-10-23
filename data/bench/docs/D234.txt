@@ -1,0 +1,9 @@
+id: D234
+date: 2026-02-13
+type: email
+title: Proposal: expanded retention bonus payout (not approved)
+---
+From: Tom Reyes
+To: Priya Nair
+
+Proposal to add a second phase to the retention bonus payout with Payroll bonus run. This was reviewed and not approved, so no spend is planned. Revisit next year.

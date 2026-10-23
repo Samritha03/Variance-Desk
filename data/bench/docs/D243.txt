@@ -1,0 +1,9 @@
+id: D243
+date: 2025-06-29
+type: email
+title: Sales: new role opening next month
+---
+From: HR
+To: Marcus Hale
+
+Offer accepted for an open Sales role. Start date is the first of next month. No cost in the current month.

@@ -1,0 +1,9 @@
+id: D186
+date: 2025-05-17
+type: email
+title: mobile app rebuild: contractors engaged
+---
+From: Elena Ortiz
+To: Priya Nair
+
+Elena Ortiz to Priya Nair: we engaged Contract developers for a short-term team to finish the app rebuild. Four weeks, fixed scope.

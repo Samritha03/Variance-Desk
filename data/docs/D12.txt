@@ -1,0 +1,8 @@
+id: D12
+date: 2026-09-24
+type: invoice
+title: Whitfield & Crane LLP invoice WC-4471
+---
+Whitfield & Crane LLP, invoice WC-4471, September 24, 2026
+Annual financial statement audit, fiscal year 2026: fieldwork and report.
+Amount due: $34,542.72. Billed in full on completion of fieldwork.

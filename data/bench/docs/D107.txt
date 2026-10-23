@@ -1,0 +1,6 @@
+id: D107
+date: 2026-04-15
+type: invoice
+title: Summit Events Inc invoice SUM-3580
+---
+Summit Events Inc, invoice SUM-3580. Home and Garden Summit: sponsorship and exhibitor fees. Amount due: $52,900.00.

@@ -1,0 +1,6 @@
+id: D237
+date: 2025-11-15
+type: payroll
+title: Payroll register PAY-6627
+---
+Payroll register PAY-6627. early start of two senior hires: two senior engineers who started a month early. Amount: $37,000.00.

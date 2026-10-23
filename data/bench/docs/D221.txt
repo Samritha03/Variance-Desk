@@ -1,0 +1,9 @@
+id: D221
+date: 2026-01-17
+type: email
+title: installation backlog update
+---
+From: Tom Reyes
+To: Priya Nair
+
+Tom Reyes to Priya Nair: the installation backlog: two technicians left and jobs queued. Services revenue is behind plan until the queue clears.

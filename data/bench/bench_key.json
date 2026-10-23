@@ -1,0 +1,1604 @@
+{
+ "cases": [
+  {
+   "id": "C01",
+   "month": "2025-02",
+   "line": {
+    "id": "F1",
+    "department": "Marketing",
+    "account_code": "6200",
+    "account_name": "Events & Trade Shows",
+    "account_type": "expense",
+    "budget": 55000.0,
+    "actual": 99600.0,
+    "variance": 44600.0,
+    "variance_pct": 81.0909090909091,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$55.0K",
+    "actual_str": "$99.6K",
+    "variance_str": "$44.6K",
+    "variance_pct_str": "81.1%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D101",
+    "D102"
+   ],
+   "keywords": [
+    "expo",
+    "booth"
+   ],
+   "queries": [
+    "Retail Expo booth exhibit",
+    "conference costs and attendee travel",
+    "who approved the trade show",
+    "exhibitor fees and display"
+   ],
+   "decoy_docs": [
+    "D104",
+    "D105"
+   ],
+   "stale_docs": [
+    "D103"
+   ]
+  },
+  {
+   "id": "C02",
+   "month": "2026-04",
+   "line": {
+    "id": "F1",
+    "department": "Marketing",
+    "account_code": "6200",
+    "account_name": "Events & Trade Shows",
+    "account_type": "expense",
+    "budget": 80000.0,
+    "actual": 132900.0,
+    "variance": 52900.0,
+    "variance_pct": 66.125,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$80.0K",
+    "actual_str": "$132.9K",
+    "variance_str": "$52.9K",
+    "variance_pct_str": "66.1%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D106",
+    "D107"
+   ],
+   "keywords": [
+    "summit",
+    "sponsor"
+   ],
+   "queries": [
+    "Home and Garden Summit booth exhibit",
+    "conference costs and attendee travel",
+    "who approved the trade show",
+    "exhibitor fees and display"
+   ],
+   "decoy_docs": [
+    "D109",
+    "D110"
+   ],
+   "stale_docs": [
+    "D108"
+   ]
+  },
+  {
+   "id": "C03",
+   "month": "2025-03",
+   "line": {
+    "id": "F1",
+    "department": "Engineering",
+    "account_code": "6500",
+    "account_name": "Software & Cloud",
+    "account_type": "expense",
+    "budget": 18000.0,
+    "actual": 30400.0,
+    "variance": 12400.0,
+    "variance_pct": 68.88888888888889,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$18.0K",
+    "actual_str": "$30.4K",
+    "variance_str": "$12.4K",
+    "variance_pct_str": "68.9%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D111",
+    "D112"
+   ],
+   "keywords": [
+    "migration",
+    "warehouse"
+   ],
+   "queries": [
+    "data warehouse migration cloud usage",
+    "hosting bill increase",
+    "infrastructure spend jumped",
+    "compute charges above plan"
+   ],
+   "decoy_docs": [
+    "D114",
+    "D115"
+   ],
+   "stale_docs": [
+    "D113"
+   ]
+  },
+  {
+   "id": "C04",
+   "month": "2026-05",
+   "line": {
+    "id": "F1",
+    "department": "Engineering",
+    "account_code": "6500",
+    "account_name": "Software & Cloud",
+    "account_type": "expense",
+    "budget": 18000.0,
+    "actual": 32500.0,
+    "variance": 14500.0,
+    "variance_pct": 80.55555555555556,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$18.0K",
+    "actual_str": "$32.5K",
+    "variance_str": "$14.5K",
+    "variance_pct_str": "80.6%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D116",
+    "D117"
+   ],
+   "keywords": [
+    "training",
+    "gpu"
+   ],
+   "queries": [
+    "forecasting model training cloud usage",
+    "hosting bill increase",
+    "infrastructure spend jumped",
+    "compute charges above plan"
+   ],
+   "decoy_docs": [
+    "D119",
+    "D120"
+   ],
+   "stale_docs": [
+    "D118"
+   ]
+  },
+  {
+   "id": "C05",
+   "month": "2025-04",
+   "line": {
+    "id": "F1",
+    "department": "Operations",
+    "account_code": "6300",
+    "account_name": "Freight & Shipping",
+    "account_type": "expense",
+    "budget": 18000.0,
+    "actual": 33800.0,
+    "variance": 15800.0,
+    "variance_pct": 87.77777777777777,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$18.0K",
+    "actual_str": "$33.8K",
+    "variance_str": "$15.8K",
+    "variance_pct_str": "87.8%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D121",
+    "D122"
+   ],
+   "keywords": [
+    "fuel",
+    "surcharge"
+   ],
+   "queries": [
+    "fuel surcharge freight",
+    "shipping costs higher than planned",
+    "carrier extra charges",
+    "transport bill increase"
+   ],
+   "decoy_docs": [
+    "D124",
+    "D125"
+   ],
+   "stale_docs": [
+    "D123"
+   ]
+  },
+  {
+   "id": "C06",
+   "month": "2026-06",
+   "line": {
+    "id": "F1",
+    "department": "Operations",
+    "account_code": "6300",
+    "account_name": "Freight & Shipping",
+    "account_type": "expense",
+    "budget": 42000.0,
+    "actual": 64700.0,
+    "variance": 22700.0,
+    "variance_pct": 54.047619047619044,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$42.0K",
+    "actual_str": "$64.7K",
+    "variance_str": "$22.7K",
+    "variance_pct_str": "54.0%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D126",
+    "D127"
+   ],
+   "keywords": [
+    "port",
+    "reroute"
+   ],
+   "queries": [
+    "port congestion rerouting freight",
+    "shipping costs higher than planned",
+    "carrier extra charges",
+    "transport bill increase"
+   ],
+   "decoy_docs": [
+    "D129",
+    "D130"
+   ],
+   "stale_docs": [
+    "D128"
+   ]
+  },
+  {
+   "id": "C07",
+   "month": "2025-05",
+   "line": {
+    "id": "F1",
+    "department": "G&A",
+    "account_code": "6800",
+    "account_name": "Professional Fees",
+    "account_type": "expense",
+    "budget": 18000.0,
+    "actual": 31700.0,
+    "variance": 13700.0,
+    "variance_pct": 76.11111111111111,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$18.0K",
+    "actual_str": "$31.7K",
+    "variance_str": "$13.7K",
+    "variance_pct_str": "76.1%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D131",
+    "D132"
+   ],
+   "keywords": [
+    "audit",
+    "fieldwork"
+   ],
+   "queries": [
+    "annual audit fee",
+    "external accountant charges",
+    "legal and professional services billing",
+    "outside counsel invoice"
+   ],
+   "decoy_docs": [
+    "D134",
+    "D135"
+   ],
+   "stale_docs": [
+    "D133"
+   ]
+  },
+  {
+   "id": "C08",
+   "month": "2026-07",
+   "line": {
+    "id": "F1",
+    "department": "G&A",
+    "account_code": "6800",
+    "account_name": "Professional Fees",
+    "account_type": "expense",
+    "budget": 80000.0,
+    "actual": 110000.0,
+    "variance": 30000.0,
+    "variance_pct": 37.5,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$80.0K",
+    "actual_str": "$110.0K",
+    "variance_str": "$30.0K",
+    "variance_pct_str": "37.5%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D136",
+    "D137"
+   ],
+   "keywords": [
+    "settlement",
+    "counsel"
+   ],
+   "queries": [
+    "litigation settlement counsel fee",
+    "external accountant charges",
+    "legal and professional services billing",
+    "outside counsel invoice"
+   ],
+   "decoy_docs": [
+    "D139",
+    "D140"
+   ],
+   "stale_docs": [
+    "D138"
+   ]
+  },
+  {
+   "id": "C09",
+   "month": "2025-06",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "4000",
+    "account_name": "Product Revenue",
+    "account_type": "revenue",
+    "budget": 330000.0,
+    "actual": 303000.0,
+    "variance": -27000.0,
+    "variance_pct": -8.181818181818182,
+    "direction": "under",
+    "favorable": false,
+    "budget_str": "$330.0K",
+    "actual_str": "$303.0K",
+    "variance_str": "$27.0K",
+    "variance_pct_str": "8.2%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D141",
+    "D142"
+   ],
+   "keywords": [
+    "slip",
+    "push"
+   ],
+   "queries": [
+    "two enterprise orders slip next month",
+    "revenue shortfall deals delayed",
+    "customers postponed signing",
+    "why did bookings miss plan"
+   ],
+   "decoy_docs": [
+    "D144",
+    "D145"
+   ],
+   "stale_docs": [
+    "D143"
+   ]
+  },
+  {
+   "id": "C10",
+   "month": "2025-02",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "4000",
+    "account_name": "Product Revenue",
+    "account_type": "revenue",
+    "budget": 108000.0,
+    "actual": 98200.0,
+    "variance": -9800.0,
+    "variance_pct": -9.074074074074074,
+    "direction": "under",
+    "favorable": false,
+    "budget_str": "$108.0K",
+    "actual_str": "$98.2K",
+    "variance_str": "$9.8K",
+    "variance_pct_str": "9.1%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D146",
+    "D147"
+   ],
+   "keywords": [
+    "delay",
+    "reorder"
+   ],
+   "queries": [
+    "holiday reorder slip next month",
+    "revenue shortfall deals delayed",
+    "customers postponed signing",
+    "why did bookings miss plan"
+   ],
+   "decoy_docs": [
+    "D149",
+    "D150"
+   ],
+   "stale_docs": [
+    "D148"
+   ]
+  },
+  {
+   "id": "C11",
+   "month": "2025-07",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "4000",
+    "account_name": "Product Revenue",
+    "account_type": "revenue",
+    "budget": 480000.0,
+    "actual": 514400.0,
+    "variance": 34400.0,
+    "variance_pct": 7.166666666666667,
+    "direction": "over",
+    "favorable": true,
+    "budget_str": "$480.0K",
+    "actual_str": "$514.4K",
+    "variance_str": "$34.4K",
+    "variance_pct_str": "7.2%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D151",
+    "D152"
+   ],
+   "keywords": [
+    "promotion",
+    "earlier"
+   ],
+   "queries": [
+    "seasonal promotion sales beat",
+    "revenue above plan",
+    "pulled forward orders",
+    "stocking order"
+   ],
+   "decoy_docs": [
+    "D154",
+    "D155"
+   ],
+   "stale_docs": [
+    "D153"
+   ]
+  },
+  {
+   "id": "C12",
+   "month": "2025-03",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "4000",
+    "account_name": "Product Revenue",
+    "account_type": "revenue",
+    "budget": 720000.0,
+    "actual": 804400.0,
+    "variance": 84400.0,
+    "variance_pct": 11.722222222222223,
+    "direction": "over",
+    "favorable": true,
+    "budget_str": "$720.0K",
+    "actual_str": "$804.4K",
+    "variance_str": "$84.4K",
+    "variance_pct_str": "11.7%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D156",
+    "D157"
+   ],
+   "keywords": [
+    "distributor",
+    "stocking"
+   ],
+   "queries": [
+    "new distributor launch order sales beat",
+    "revenue above plan",
+    "pulled forward orders",
+    "stocking order"
+   ],
+   "decoy_docs": [
+    "D159",
+    "D160"
+   ],
+   "stale_docs": [
+    "D158"
+   ]
+  },
+  {
+   "id": "C13",
+   "month": "2025-08",
+   "line": {
+    "id": "F1",
+    "department": "Marketing",
+    "account_code": "6100",
+    "account_name": "Digital Advertising",
+    "account_type": "expense",
+    "budget": 80000.0,
+    "actual": 136800.0,
+    "variance": 56800.0,
+    "variance_pct": 71.0,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$80.0K",
+    "actual_str": "$136.8K",
+    "variance_str": "$56.8K",
+    "variance_pct_str": "71.0%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D161",
+    "D162"
+   ],
+   "keywords": [
+    "launch",
+    "campaign"
+   ],
+   "queries": [
+    "product launch campaign ad spend",
+    "advertising budget overrun",
+    "paid social costs",
+    "media buying increase"
+   ],
+   "decoy_docs": [
+    "D164",
+    "D165"
+   ],
+   "stale_docs": [
+    "D163"
+   ]
+  },
+  {
+   "id": "C14",
+   "month": "2025-04",
+   "line": {
+    "id": "F1",
+    "department": "Marketing",
+    "account_code": "6100",
+    "account_name": "Digital Advertising",
+    "account_type": "expense",
+    "budget": 30000.0,
+    "actual": 44000.0,
+    "variance": 14000.0,
+    "variance_pct": 46.666666666666664,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$30.0K",
+    "actual_str": "$44.0K",
+    "variance_str": "$14.0K",
+    "variance_pct_str": "46.7%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D166",
+    "D167"
+   ],
+   "keywords": [
+    "holiday",
+    "pre-season"
+   ],
+   "queries": [
+    "holiday pre-season push ad spend",
+    "advertising budget overrun",
+    "paid social costs",
+    "media buying increase"
+   ],
+   "decoy_docs": [
+    "D169",
+    "D170"
+   ],
+   "stale_docs": [
+    "D168"
+   ]
+  },
+  {
+   "id": "C15",
+   "month": "2025-09",
+   "line": {
+    "id": "F1",
+    "department": "G&A",
+    "account_code": "6400",
+    "account_name": "Facilities & Rent",
+    "account_type": "expense",
+    "budget": 55000.0,
+    "actual": 101800.0,
+    "variance": 46800.0,
+    "variance_pct": 85.0909090909091,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$55.0K",
+    "actual_str": "$101.8K",
+    "variance_str": "$46.8K",
+    "variance_pct_str": "85.1%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D171",
+    "D172"
+   ],
+   "keywords": [
+    "lease",
+    "reconciliation"
+   ],
+   "queries": [
+    "lease reconciliation charge",
+    "rent higher than budget",
+    "landlord catch-up bill",
+    "property cost one-time"
+   ],
+   "decoy_docs": [
+    "D174",
+    "D175"
+   ],
+   "stale_docs": [
+    "D173"
+   ]
+  },
+  {
+   "id": "C16",
+   "month": "2025-05",
+   "line": {
+    "id": "F1",
+    "department": "G&A",
+    "account_code": "6400",
+    "account_name": "Facilities & Rent",
+    "account_type": "expense",
+    "budget": 120000.0,
+    "actual": 216200.0,
+    "variance": 96200.0,
+    "variance_pct": 80.16666666666666,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$120.0K",
+    "actual_str": "$216.2K",
+    "variance_str": "$96.2K",
+    "variance_pct_str": "80.2%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D176",
+    "D177"
+   ],
+   "keywords": [
+    "expansion",
+    "deposit"
+   ],
+   "queries": [
+    "office expansion charge",
+    "rent higher than budget",
+    "landlord catch-up bill",
+    "property cost one-time"
+   ],
+   "decoy_docs": [
+    "D179",
+    "D180"
+   ],
+   "stale_docs": [
+    "D178"
+   ]
+  },
+  {
+   "id": "C17",
+   "month": "2025-10",
+   "line": {
+    "id": "F1",
+    "department": "Engineering",
+    "account_code": "6650",
+    "account_name": "Contractors & Agencies",
+    "account_type": "expense",
+    "budget": 120000.0,
+    "actual": 215300.0,
+    "variance": 95300.0,
+    "variance_pct": 79.41666666666667,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$120.0K",
+    "actual_str": "$215.3K",
+    "variance_str": "$95.3K",
+    "variance_pct_str": "79.4%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D181",
+    "D182"
+   ],
+   "keywords": [
+    "security",
+    "remediation"
+   ],
+   "queries": [
+    "security remediation contractors",
+    "outside engineers cost",
+    "agency fees above plan",
+    "temporary developer spend"
+   ],
+   "decoy_docs": [
+    "D184",
+    "D185"
+   ],
+   "stale_docs": [
+    "D183"
+   ]
+  },
+  {
+   "id": "C18",
+   "month": "2025-06",
+   "line": {
+    "id": "F1",
+    "department": "Engineering",
+    "account_code": "6650",
+    "account_name": "Contractors & Agencies",
+    "account_type": "expense",
+    "budget": 80000.0,
+    "actual": 102900.0,
+    "variance": 22900.0,
+    "variance_pct": 28.625,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$80.0K",
+    "actual_str": "$102.9K",
+    "variance_str": "$22.9K",
+    "variance_pct_str": "28.6%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D186",
+    "D187"
+   ],
+   "keywords": [
+    "mobile",
+    "rebuild"
+   ],
+   "queries": [
+    "mobile app rebuild contractors",
+    "outside engineers cost",
+    "agency fees above plan",
+    "temporary developer spend"
+   ],
+   "decoy_docs": [
+    "D189",
+    "D190"
+   ],
+   "stale_docs": [
+    "D188"
+   ]
+  },
+  {
+   "id": "C19",
+   "month": "2025-11",
+   "line": {
+    "id": "F1",
+    "department": "Operations",
+    "account_code": "5000",
+    "account_name": "Cost of Goods Sold",
+    "account_type": "expense",
+    "budget": 42000.0,
+    "actual": 26900.0,
+    "variance": -15100.0,
+    "variance_pct": -35.95238095238095,
+    "direction": "under",
+    "favorable": true,
+    "budget_str": "$42.0K",
+    "actual_str": "$26.9K",
+    "variance_str": "$15.1K",
+    "variance_pct_str": "36.0%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D191",
+    "D192"
+   ],
+   "keywords": [
+    "rebate",
+    "credit"
+   ],
+   "queries": [
+    "supplier volume rebate cost savings",
+    "materials cost below plan",
+    "supplier credit",
+    "cheaper purchasing"
+   ],
+   "decoy_docs": [
+    "D194",
+    "D195"
+   ],
+   "stale_docs": [
+    "D193"
+   ]
+  },
+  {
+   "id": "C20",
+   "month": "2025-07",
+   "line": {
+    "id": "F1",
+    "department": "Operations",
+    "account_code": "5000",
+    "account_name": "Cost of Goods Sold",
+    "account_type": "expense",
+    "budget": 18000.0,
+    "actual": 2100.0,
+    "variance": -15900.0,
+    "variance_pct": -88.33333333333333,
+    "direction": "under",
+    "favorable": true,
+    "budget_str": "$18.0K",
+    "actual_str": "$2.1K",
+    "variance_str": "$15.9K",
+    "variance_pct_str": "88.3%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D196",
+    "D197"
+   ],
+   "keywords": [
+    "pricing",
+    "renegotiated"
+   ],
+   "queries": [
+    "renegotiated fabric pricing cost savings",
+    "materials cost below plan",
+    "supplier credit",
+    "cheaper purchasing"
+   ],
+   "decoy_docs": [
+    "D199",
+    "D200"
+   ],
+   "stale_docs": [
+    "D198"
+   ]
+  },
+  {
+   "id": "C21",
+   "month": "2025-12",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "6600",
+    "account_name": "Travel & Entertainment",
+    "account_type": "expense",
+    "budget": 120000.0,
+    "actual": 158400.0,
+    "variance": 38400.0,
+    "variance_pct": 32.0,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$120.0K",
+    "actual_str": "$158.4K",
+    "variance_str": "$38.4K",
+    "variance_pct_str": "32.0%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D201",
+    "D202"
+   ],
+   "keywords": [
+    "kickoff",
+    "flights"
+   ],
+   "queries": [
+    "annual sales kickoff cost",
+    "team offsite expenses",
+    "sales travel spend",
+    "hotel and airfare overrun"
+   ],
+   "decoy_docs": [
+    "D204",
+    "D205"
+   ],
+   "stale_docs": [
+    "D203"
+   ]
+  },
+  {
+   "id": "C22",
+   "month": "2025-08",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "6600",
+    "account_name": "Travel & Entertainment",
+    "account_type": "expense",
+    "budget": 80000.0,
+    "actual": 130300.0,
+    "variance": 50300.0,
+    "variance_pct": 62.875,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$80.0K",
+    "actual_str": "$130.3K",
+    "variance_str": "$50.3K",
+    "variance_pct_str": "62.9%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D206",
+    "D207"
+   ],
+   "keywords": [
+    "summit",
+    "executive"
+   ],
+   "queries": [
+    "customer summit travel cost",
+    "team offsite expenses",
+    "sales travel spend",
+    "hotel and airfare overrun"
+   ],
+   "decoy_docs": [
+    "D209",
+    "D210"
+   ],
+   "stale_docs": [
+    "D208"
+   ]
+  },
+  {
+   "id": "C23",
+   "month": "2026-01",
+   "line": {
+    "id": "F1",
+    "department": "G&A",
+    "account_code": "6900",
+    "account_name": "Insurance",
+    "account_type": "expense",
+    "budget": 18000.0,
+    "actual": 28700.0,
+    "variance": 10700.0,
+    "variance_pct": 59.44444444444444,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$18.0K",
+    "actual_str": "$28.7K",
+    "variance_str": "$10.7K",
+    "variance_pct_str": "59.4%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D211",
+    "D212"
+   ],
+   "keywords": [
+    "renewal",
+    "premium"
+   ],
+   "queries": [
+    "policy renewal premium",
+    "insurance cost increase",
+    "coverage change bill",
+    "annual policy payment"
+   ],
+   "decoy_docs": [
+    "D214",
+    "D215"
+   ],
+   "stale_docs": [
+    "D213"
+   ]
+  },
+  {
+   "id": "C24",
+   "month": "2025-09",
+   "line": {
+    "id": "F1",
+    "department": "G&A",
+    "account_code": "6900",
+    "account_name": "Insurance",
+    "account_type": "expense",
+    "budget": 24000.0,
+    "actual": 37800.0,
+    "variance": 13800.0,
+    "variance_pct": 57.49999999999999,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$24.0K",
+    "actual_str": "$37.8K",
+    "variance_str": "$13.8K",
+    "variance_pct_str": "57.5%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D216",
+    "D217"
+   ],
+   "keywords": [
+    "cyber",
+    "coverage"
+   ],
+   "queries": [
+    "cyber coverage upgrade premium",
+    "insurance cost increase",
+    "coverage change bill",
+    "annual policy payment"
+   ],
+   "decoy_docs": [
+    "D219",
+    "D220"
+   ],
+   "stale_docs": [
+    "D218"
+   ]
+  },
+  {
+   "id": "C25",
+   "month": "2026-02",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "4100",
+    "account_name": "Services Revenue",
+    "account_type": "revenue",
+    "budget": 144000.0,
+    "actual": 131900.0,
+    "variance": -12100.0,
+    "variance_pct": -8.402777777777779,
+    "direction": "under",
+    "favorable": false,
+    "budget_str": "$144.0K",
+    "actual_str": "$131.9K",
+    "variance_str": "$12.1K",
+    "variance_pct_str": "8.4%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D221",
+    "D222"
+   ],
+   "keywords": [
+    "backlog",
+    "technician"
+   ],
+   "queries": [
+    "installation backlog services revenue",
+    "installation work delayed",
+    "customer renewals pending",
+    "services income below plan"
+   ],
+   "decoy_docs": [
+    "D224",
+    "D225"
+   ],
+   "stale_docs": [
+    "D223"
+   ]
+  },
+  {
+   "id": "C26",
+   "month": "2025-10",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "4100",
+    "account_name": "Services Revenue",
+    "account_type": "revenue",
+    "budget": 144000.0,
+    "actual": 130100.0,
+    "variance": -13900.0,
+    "variance_pct": -9.652777777777779,
+    "direction": "under",
+    "favorable": false,
+    "budget_str": "$144.0K",
+    "actual_str": "$130.1K",
+    "variance_str": "$13.9K",
+    "variance_pct_str": "9.7%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D226",
+    "D227"
+   ],
+   "keywords": [
+    "renewal",
+    "pricing"
+   ],
+   "queries": [
+    "support plan renewals services revenue",
+    "installation work delayed",
+    "customer renewals pending",
+    "services income below plan"
+   ],
+   "decoy_docs": [
+    "D229",
+    "D230"
+   ],
+   "stale_docs": [
+    "D228"
+   ]
+  },
+  {
+   "id": "C27",
+   "month": "2026-03",
+   "line": {
+    "id": "F1",
+    "department": "Engineering",
+    "account_code": "6000",
+    "account_name": "Salaries & Wages",
+    "account_type": "expense",
+    "budget": 24000.0,
+    "actual": 41500.0,
+    "variance": 17500.0,
+    "variance_pct": 72.91666666666666,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$24.0K",
+    "actual_str": "$41.5K",
+    "variance_str": "$17.5K",
+    "variance_pct_str": "72.9%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D231",
+    "D232"
+   ],
+   "keywords": [
+    "retention",
+    "bonus"
+   ],
+   "queries": [
+    "retention bonus payout payroll",
+    "one-time compensation",
+    "bonus costs",
+    "headcount cost above plan"
+   ],
+   "decoy_docs": [
+    "D234",
+    "D235"
+   ],
+   "stale_docs": [
+    "D233"
+   ]
+  },
+  {
+   "id": "C28",
+   "month": "2025-11",
+   "line": {
+    "id": "F1",
+    "department": "Engineering",
+    "account_code": "6000",
+    "account_name": "Salaries & Wages",
+    "account_type": "expense",
+    "budget": 55000.0,
+    "actual": 92000.0,
+    "variance": 37000.0,
+    "variance_pct": 67.27272727272727,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$55.0K",
+    "actual_str": "$92.0K",
+    "variance_str": "$37.0K",
+    "variance_pct_str": "67.3%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "supported",
+   "gold_docs": [
+    "D236",
+    "D237"
+   ],
+   "keywords": [
+    "senior",
+    "started"
+   ],
+   "queries": [
+    "early start of two senior hires payroll",
+    "one-time compensation",
+    "bonus costs",
+    "headcount cost above plan"
+   ],
+   "decoy_docs": [
+    "D239",
+    "D240"
+   ],
+   "stale_docs": [
+    "D238"
+   ]
+  },
+  {
+   "id": "C29",
+   "month": "2025-04",
+   "line": {
+    "id": "F1",
+    "department": "Marketing",
+    "account_code": "6000",
+    "account_name": "Salaries & Wages",
+    "account_type": "expense",
+    "budget": 90000.0,
+    "actual": 99180.96,
+    "variance": 9180.960000000006,
+    "variance_pct": 10.201066666666673,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$90.0K",
+    "actual_str": "$99.2K",
+    "variance_str": "$9.2K",
+    "variance_pct_str": "10.2%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "no_evidence",
+   "gold_docs": [],
+   "keywords": [],
+   "queries": [
+    "Marketing salaries & wages increase",
+    "why is marketing salaries & wages over budget",
+    "salaries & wages higher than plan",
+    "marketing extra cost this month"
+   ],
+   "decoy_docs": [
+    "D241"
+   ],
+   "stale_docs": [
+    "D242"
+   ]
+  },
+  {
+   "id": "C30",
+   "month": "2025-06",
+   "line": {
+    "id": "F1",
+    "department": "Sales",
+    "account_code": "6000",
+    "account_name": "Salaries & Wages",
+    "account_type": "expense",
+    "budget": 210000.0,
+    "actual": 227503.08,
+    "variance": 17503.079999999987,
+    "variance_pct": 8.334799999999994,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$210.0K",
+    "actual_str": "$227.5K",
+    "variance_str": "$17.5K",
+    "variance_pct_str": "8.3%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "no_evidence",
+   "gold_docs": [],
+   "keywords": [],
+   "queries": [
+    "Sales salaries & wages increase",
+    "why is sales salaries & wages over budget",
+    "salaries & wages higher than plan",
+    "sales extra cost this month"
+   ],
+   "decoy_docs": [
+    "D243"
+   ],
+   "stale_docs": [
+    "D244"
+   ]
+  },
+  {
+   "id": "C31",
+   "month": "2025-08",
+   "line": {
+    "id": "F1",
+    "department": "Operations",
+    "account_code": "6000",
+    "account_name": "Salaries & Wages",
+    "account_type": "expense",
+    "budget": 210000.0,
+    "actual": 226375.47,
+    "variance": 16375.470000000001,
+    "variance_pct": 7.797842857142857,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$210.0K",
+    "actual_str": "$226.4K",
+    "variance_str": "$16.4K",
+    "variance_pct_str": "7.8%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "no_evidence",
+   "gold_docs": [],
+   "keywords": [],
+   "queries": [
+    "Operations salaries & wages increase",
+    "why is operations salaries & wages over budget",
+    "salaries & wages higher than plan",
+    "operations extra cost this month"
+   ],
+   "decoy_docs": [
+    "D245"
+   ],
+   "stale_docs": [
+    "D246"
+   ]
+  },
+  {
+   "id": "C32",
+   "month": "2025-10",
+   "line": {
+    "id": "F1",
+    "department": "G&A",
+    "account_code": "6000",
+    "account_name": "Salaries & Wages",
+    "account_type": "expense",
+    "budget": 210000.0,
+    "actual": 228581.68,
+    "variance": 18581.679999999993,
+    "variance_pct": 8.848419047619045,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$210.0K",
+    "actual_str": "$228.6K",
+    "variance_str": "$18.6K",
+    "variance_pct_str": "8.8%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "no_evidence",
+   "gold_docs": [],
+   "keywords": [],
+   "queries": [
+    "G&A salaries & wages increase",
+    "why is g&a salaries & wages over budget",
+    "salaries & wages higher than plan",
+    "g&a extra cost this month"
+   ],
+   "decoy_docs": [
+    "D247"
+   ],
+   "stale_docs": [
+    "D248"
+   ]
+  },
+  {
+   "id": "C33",
+   "month": "2025-12",
+   "line": {
+    "id": "F1",
+    "department": "Engineering",
+    "account_code": "6000",
+    "account_name": "Salaries & Wages",
+    "account_type": "expense",
+    "budget": 140000.0,
+    "actual": 154558.89,
+    "variance": 14558.890000000014,
+    "variance_pct": 10.399207142857152,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$140.0K",
+    "actual_str": "$154.6K",
+    "variance_str": "$14.6K",
+    "variance_pct_str": "10.4%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "no_evidence",
+   "gold_docs": [],
+   "keywords": [],
+   "queries": [
+    "Engineering salaries & wages increase",
+    "why is engineering salaries & wages over budget",
+    "salaries & wages higher than plan",
+    "engineering extra cost this month"
+   ],
+   "decoy_docs": [
+    "D249"
+   ],
+   "stale_docs": [
+    "D250"
+   ]
+  },
+  {
+   "id": "C34",
+   "month": "2026-02",
+   "line": {
+    "id": "F1",
+    "department": "Operations",
+    "account_code": "6400",
+    "account_name": "Facilities & Rent",
+    "account_type": "expense",
+    "budget": 210000.0,
+    "actual": 223659.06,
+    "variance": 13659.059999999998,
+    "variance_pct": 6.504314285714284,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$210.0K",
+    "actual_str": "$223.7K",
+    "variance_str": "$13.7K",
+    "variance_pct_str": "6.5%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "no_evidence",
+   "gold_docs": [],
+   "keywords": [],
+   "queries": [
+    "Operations facilities & rent increase",
+    "why is operations facilities & rent over budget",
+    "facilities & rent higher than plan",
+    "operations extra cost this month"
+   ],
+   "decoy_docs": [
+    "D251"
+   ],
+   "stale_docs": [
+    "D252"
+   ]
+  },
+  {
+   "id": "C35",
+   "month": "2026-04",
+   "line": {
+    "id": "F1",
+    "department": "Marketing",
+    "account_code": "6650",
+    "account_name": "Contractors & Agencies",
+    "account_type": "expense",
+    "budget": 210000.0,
+    "actual": 228580.54,
+    "variance": 18580.540000000008,
+    "variance_pct": 8.847876190476194,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$210.0K",
+    "actual_str": "$228.6K",
+    "variance_str": "$18.6K",
+    "variance_pct_str": "8.8%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "no_evidence",
+   "gold_docs": [],
+   "keywords": [],
+   "queries": [
+    "Marketing contractors & agencies increase",
+    "why is marketing contractors & agencies over budget",
+    "contractors & agencies higher than plan",
+    "marketing extra cost this month"
+   ],
+   "decoy_docs": [
+    "D253"
+   ],
+   "stale_docs": [
+    "D254"
+   ]
+  },
+  {
+   "id": "C36",
+   "month": "2026-07",
+   "line": {
+    "id": "F1",
+    "department": "Operations",
+    "account_code": "6300",
+    "account_name": "Freight & Shipping",
+    "account_type": "expense",
+    "budget": 60000.0,
+    "actual": 65816.38,
+    "variance": 5816.380000000005,
+    "variance_pct": 9.693966666666674,
+    "direction": "over",
+    "favorable": false,
+    "budget_str": "$60.0K",
+    "actual_str": "$65.8K",
+    "variance_str": "$5.8K",
+    "variance_pct_str": "9.7%",
+    "note": "",
+    "suggestion": "",
+    "sources": []
+   },
+   "expected": "no_evidence",
+   "gold_docs": [],
+   "keywords": [],
+   "queries": [
+    "Operations freight & shipping increase",
+    "why is operations freight & shipping over budget",
+    "freight & shipping higher than plan",
+    "operations extra cost this month"
+   ],
+   "decoy_docs": [
+    "D255"
+   ],
+   "stale_docs": [
+    "D256"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+id: D160
+date: 2025-04-15
+type: email
+title: Estimate request: Larkspur Home
+---
+From: Aisha Karim
+To: Marcus Hale
+
+Larkspur Home sent a price estimate for follow-on work related to the new distributor launch order. Quote only. Nothing has been ordered and nothing was charged this month.

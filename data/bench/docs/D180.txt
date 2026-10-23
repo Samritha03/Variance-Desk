@@ -1,0 +1,9 @@
+id: D180
+date: 2025-06-15
+type: email
+title: Estimate request: Harbor Commercial
+---
+From: Leo Marchetti
+To: Leo Marchetti
+
+Harbor Commercial sent a price estimate for follow-on work related to the office expansion. Quote only. Nothing has been ordered and nothing was charged this month.

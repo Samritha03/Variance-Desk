@@ -1,0 +1,9 @@
+id: D229
+date: 2025-09-15
+type: email
+title: Proposal: expanded support plan renewals (not approved)
+---
+From: Tom Reyes
+To: Elena Ortiz
+
+Proposal to add a second phase to the support plan renewals with Harbor Care Plans. This was reviewed and not approved, so no spend is planned. Revisit next year.

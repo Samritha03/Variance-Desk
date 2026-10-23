@@ -1,0 +1,6 @@
+id: D103
+date: 2024-02-20
+type: invoice
+title: Expo Partners LLC invoice EXP-8629 (last year)
+---
+Expo Partners LLC, invoice EXP-0000. Retail Expo: booth and display package. Amount due: $29,509.51.

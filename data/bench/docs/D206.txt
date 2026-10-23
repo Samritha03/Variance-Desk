@@ -1,0 +1,9 @@
+id: D206
+date: 2025-07-15
+type: email
+title: customer summit travel logistics
+---
+From: Elena Ortiz
+To: Aisha Karim
+
+Elena Ortiz to Aisha Karim: the customer summit travel happened this month: executive travel to the customer summit. Budgeted in Q1 originally, moved up.

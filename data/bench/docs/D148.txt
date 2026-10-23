@@ -1,0 +1,6 @@
+id: D148
+date: 2024-02-20
+type: note
+title: Pipeline review (last year)
+---
+Pipeline review. Bayline Retail Group: holiday reorder slipped, customer delayed the reorder until their warehouse reopens. Expected next month.

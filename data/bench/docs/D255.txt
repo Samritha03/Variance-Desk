@@ -1,0 +1,9 @@
+id: D255
+date: 2026-07-29
+type: email
+title: Operations: new role opening next month
+---
+From: HR
+To: Aisha Karim
+
+Offer accepted for an open Operations role. Start date is the first of next month. No cost in the current month.

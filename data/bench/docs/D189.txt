@@ -1,0 +1,9 @@
+id: D189
+date: 2025-05-16
+type: email
+title: Proposal: expanded mobile app rebuild (not approved)
+---
+From: Aisha Karim
+To: Priya Nair
+
+Proposal to add a second phase to the mobile app rebuild with Contract developers. This was reviewed and not approved, so no spend is planned. Revisit next year.

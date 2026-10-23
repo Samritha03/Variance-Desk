@@ -1,0 +1,6 @@
+id: D113
+date: 2024-03-20
+type: invoice
+title: Amazon Web Services usage summary AMA-8492 (last year)
+---
+Amazon Web Services usage summary AMA-0000. Increase driven by dual-running the old and new warehouses. Charge: $6,912.23.

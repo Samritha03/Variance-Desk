@@ -1,0 +1,9 @@
+id: D175
+date: 2025-10-16
+type: email
+title: Estimate request: Rivergate Properties
+---
+From: Leo Marchetti
+To: Priya Nair
+
+Rivergate Properties sent a price estimate for follow-on work related to the lease reconciliation. Quote only. Nothing has been ordered and nothing was charged this month.

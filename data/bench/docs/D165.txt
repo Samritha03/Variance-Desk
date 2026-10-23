@@ -1,0 +1,9 @@
+id: D165
+date: 2025-09-15
+type: email
+title: Estimate request: Meta Ads
+---
+From: Leo Marchetti
+To: Tom Reyes
+
+Meta Ads sent a price estimate for follow-on work related to the product launch campaign. Quote only. Nothing has been ordered and nothing was charged this month.

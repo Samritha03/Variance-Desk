@@ -1,0 +1,6 @@
+id: D233
+date: 2025-03-20
+type: payroll
+title: Payroll register PAY-5251 (last year)
+---
+Payroll register PAY-0000. retention bonus payout: a one-time retention bonus paid to the platform team. Amount: $13,120.00.

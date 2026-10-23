@@ -1,0 +1,9 @@
+id: D215
+date: 2026-02-15
+type: email
+title: Estimate request: Atlas Mutual
+---
+From: Aisha Karim
+To: Elena Ortiz
+
+Atlas Mutual sent a price estimate for follow-on work related to the policy renewal. Quote only. Nothing has been ordered and nothing was charged this month.

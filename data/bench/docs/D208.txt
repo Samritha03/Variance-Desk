@@ -1,0 +1,6 @@
+id: D208
+date: 2024-08-20
+type: expense report
+title: Expense report COR-3692 (last year)
+---
+Expense report COR-0000. customer summit travel: executive travel to the customer summit. Total: $31,493.53.

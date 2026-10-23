@@ -1,0 +1,78 @@
+{
+  "focus_month": "2026-09",
+  "lines": {
+    "Marketing|6200": {
+      "expected": "supported",
+      "gold_docs": [
+        "D01",
+        "D02",
+        "D03",
+        "D04"
+      ],
+      "keywords": [
+        "trade show",
+        "expo"
+      ],
+      "query": "trade show booth expo"
+    },
+    "Sales|4000": {
+      "expected": "supported",
+      "gold_docs": [
+        "D06",
+        "D07"
+      ],
+      "keywords": [
+        "slip",
+        "october"
+      ],
+      "query": "orders slip October"
+    },
+    "Engineering|6500": {
+      "expected": "supported",
+      "gold_docs": [
+        "D08",
+        "D09"
+      ],
+      "keywords": [
+        "pipeline"
+      ],
+      "query": "pipeline cloud AWS"
+    },
+    "Operations|6300": {
+      "expected": "supported",
+      "gold_docs": [
+        "D10",
+        "D11"
+      ],
+      "keywords": [
+        "fuel",
+        "expedit"
+      ],
+      "query": "fuel surcharge expedited freight"
+    },
+    "G&A|6800": {
+      "expected": "supported",
+      "gold_docs": [
+        "D12",
+        "D13"
+      ],
+      "keywords": [
+        "audit"
+      ],
+      "query": "audit fee invoice"
+    },
+    "Engineering|6000": {
+      "expected": "no_evidence",
+      "gold_docs": [],
+      "keywords": [],
+      "traps": [
+        "D16",
+        "D15"
+      ]
+    }
+  },
+  "out_of_period_docs": [
+    "D14",
+    "D15"
+  ]
+}

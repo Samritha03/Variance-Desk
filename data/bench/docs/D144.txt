@@ -1,0 +1,9 @@
+id: D144
+date: 2025-04-26
+type: email
+title: Proposal: expanded two enterprise orders (not approved)
+---
+From: Priya Nair
+To: Marcus Hale
+
+Proposal to add a second phase to the two enterprise orders with Northgate Outfitters. This was reviewed and not approved, so no spend is planned. Revisit next year.

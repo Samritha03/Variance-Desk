@@ -1,0 +1,6 @@
+id: D198
+date: 2024-07-20
+type: statement
+title: Pacific Fabrication credit memo PAC-9797 (last year)
+---
+Pacific Fabrication, credit memo PAC-0000. renegotiated fabric pricing: new lower unit prices effective this month. Credit: $10,497.58.

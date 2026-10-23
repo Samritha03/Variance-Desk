@@ -1,0 +1,9 @@
+id: D245
+date: 2025-09-07
+type: email
+title: Operations: new role opening next month
+---
+From: HR
+To: Marcus Hale
+
+Offer accepted for an open Operations role. Start date is the first of next month. No cost in the current month.

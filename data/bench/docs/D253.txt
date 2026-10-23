@@ -1,0 +1,9 @@
+id: D253
+date: 2026-05-08
+type: email
+title: Marketing: new role opening next month
+---
+From: HR
+To: Priya Nair
+
+Offer accepted for an open Marketing role. Start date is the first of next month. No cost in the current month.

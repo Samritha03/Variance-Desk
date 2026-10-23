@@ -1,0 +1,9 @@
+id: D111
+date: 2025-02-09
+type: email
+title: data warehouse migration is under way
+---
+From: Elena Ortiz
+To: Tom Reyes
+
+Elena Ortiz: the data warehouse migration started this month. Until cutover we are dual-running the old and new warehouses, so cloud usage runs well above plan. Expect it to normalise after cutover.

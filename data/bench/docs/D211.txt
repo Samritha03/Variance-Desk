@@ -1,0 +1,9 @@
+id: D211
+date: 2026-01-12
+type: email
+title: policy renewal
+---
+From: Aisha Karim
+To: Elena Ortiz
+
+Aisha Karim: Atlas Mutual bound the policy renewal with a renewal premium increase after two claims last year. Premium is billed in one instalment.

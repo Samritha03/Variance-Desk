@@ -1,0 +1,6 @@
+id: D122
+date: 2025-04-25
+type: invoice
+title: Northline Freight invoice NOR-2933
+---
+Northline Freight, invoice NOR-2933. Includes a 14% fuel surcharge effective the first of the month. Total: $15,800.00.

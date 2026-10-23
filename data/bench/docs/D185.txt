@@ -1,0 +1,9 @@
+id: D185
+date: 2025-11-05
+type: email
+title: Estimate request: Brightpath Agency
+---
+From: Leo Marchetti
+To: Marcus Hale
+
+Brightpath Agency sent a price estimate for follow-on work related to the security remediation. Quote only. Nothing has been ordered and nothing was charged this month.

@@ -1,0 +1,10 @@
+id: D11
+date: 2026-09-17
+type: email
+title: Rush shipments for back-to-school restock
+---
+From: Tom Alvarez, Operations Manager
+To: Finance
+Subject: Rush shipments for back-to-school restock
+
+We expedited 11 orders by air freight this month to meet retailer delivery windows. Coastal Air Cargo billed $5,777.65. Normally we ship ground.

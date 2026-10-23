@@ -1,0 +1,6 @@
+id: D227
+date: 2025-10-20
+type: note
+title: Services ops note
+---
+Services ops note. support plan renewals: renewals slipped while pricing was reviewed. Work moves to next month.

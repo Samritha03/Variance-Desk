@@ -1,0 +1,12 @@
+id: D01
+date: 2026-08-12
+type: email
+title: Approval to attend NorthAmerica Retail Expo
+---
+From: Marcus Hale, VP Marketing
+To: Elena Ortiz, CFO
+Subject: Approval to attend NorthAmerica Retail Expo, Sept 22-24
+
+Elena, confirming the team will exhibit at the NorthAmerica Retail Expo, September 22-24 in Columbus. The show was originally planned for October, but the organizers moved the dates up, so the booth, travel and freight all land in September instead of Q4. Expected total is about $47,700. This was not in the September budget. I am not asking for extra funds, because we will trim the Q4 events line by the same amount.
+
+Marcus

@@ -1,0 +1,7 @@
+id: D03
+date: 2026-09-26
+type: expense report
+title: Expense report SK-77412, Retail Expo travel
+---
+Expense report summary SK-77412, Skyline Travel.
+Six travelers attended the NorthAmerica Retail Expo, September 21-25: airfare, hotel and ground transport. Total $10,011.09. Approved by M. Hale.

@@ -1,0 +1,6 @@
+id: D118
+date: 2025-05-20
+type: invoice
+title: Google Cloud usage summary GOO-1008 (last year)
+---
+Google Cloud usage summary GOO-0000. Increase driven by GPU hours for model training. Charge: $10,027.63.

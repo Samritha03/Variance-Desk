@@ -1,0 +1,9 @@
+id: D179
+date: 2025-04-15
+type: email
+title: Proposal: expanded office expansion (not approved)
+---
+From: Dana Whitfield
+To: Leo Marchetti
+
+Proposal to add a second phase to the office expansion with Harbor Commercial. This was reviewed and not approved, so no spend is planned. Revisit next year.

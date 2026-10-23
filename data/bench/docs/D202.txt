@@ -1,0 +1,6 @@
+id: D202
+date: 2025-12-26
+type: expense report
+title: Expense report SKY-1575
+---
+Expense report SKY-1575. annual sales kickoff: flights and hotel for the whole sales team. Total: $38,400.00.

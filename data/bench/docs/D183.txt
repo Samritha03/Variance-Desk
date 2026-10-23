@@ -1,0 +1,6 @@
+id: D183
+date: 2024-10-20
+type: invoice
+title: Brightpath Agency invoice BRI-4889 (last year)
+---
+Brightpath Agency, invoice BRI-0000. security remediation: contract engineers to fix the penetration test findings. Amount due: $71,650.95.

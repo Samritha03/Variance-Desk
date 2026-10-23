@@ -1,0 +1,6 @@
+id: D223
+date: 2025-02-20
+type: note
+title: Services ops note (last year)
+---
+Services ops note. installation backlog: two technicians left and jobs queued. Work moves to next month.

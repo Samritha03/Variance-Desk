@@ -1,0 +1,6 @@
+id: D248
+date: 2024-10-10
+type: memo
+title: G&A planning memo (last year)
+---
+Planning memo from last year. Annual increases take effect January 1. No other changes were approved.

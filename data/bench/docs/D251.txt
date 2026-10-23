@@ -1,0 +1,9 @@
+id: D251
+date: 2026-03-10
+type: email
+title: Operations: new role opening next month
+---
+From: HR
+To: Elena Ortiz
+
+Offer accepted for an open Operations role. Start date is the first of next month. No cost in the current month.

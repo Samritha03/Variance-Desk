@@ -1,0 +1,171 @@
+month,department,account_code,account_name,budget,actual
+2026-01,Engineering,6000,Salaries & Wages,210000.0,209911.79
+2026-01,Engineering,6500,Software & Cloud,38000.0,37189.61
+2026-01,Engineering,6650,Contractors & Agencies,25000.0,25549.62
+2026-01,G&A,6000,Salaries & Wages,80000.0,78281.42
+2026-01,G&A,6400,Facilities & Rent,12000.0,12110.63
+2026-01,G&A,6800,Professional Fees,15000.0,14640.42
+2026-01,G&A,6900,Insurance,9000.0,9197.65
+2026-01,Marketing,6000,Salaries & Wages,60000.0,57073.45
+2026-01,Marketing,6100,Digital Advertising,45000.0,43535.05
+2026-01,Marketing,6200,Events & Trade Shows,20000.0,20063.92
+2026-01,Marketing,6650,Contractors & Agencies,15000.0,14881.41
+2026-01,Operations,5000,Cost of Goods Sold,380000.0,387389.02
+2026-01,Operations,6000,Salaries & Wages,90000.0,90148.57
+2026-01,Operations,6300,Freight & Shipping,42000.0,43183.6
+2026-01,Operations,6400,Facilities & Rent,30000.0,30350.63
+2026-01,Sales,4000,Product Revenue,850000.0,856475.24
+2026-01,Sales,4100,Services Revenue,120000.0,116880.05
+2026-01,Sales,6000,Salaries & Wages,140000.0,142626.58
+2026-01,Sales,6600,Travel & Entertainment,18000.0,18423.25
+2026-02,Engineering,6000,Salaries & Wages,210000.0,211918.58
+2026-02,Engineering,6500,Software & Cloud,38000.0,38392.1
+2026-02,Engineering,6650,Contractors & Agencies,25000.0,25269.26
+2026-02,G&A,6000,Salaries & Wages,80000.0,81231.96
+2026-02,G&A,6400,Facilities & Rent,12000.0,12338.69
+2026-02,G&A,6800,Professional Fees,15000.0,14957.27
+2026-02,G&A,6900,Insurance,9000.0,8810.96
+2026-02,Marketing,6000,Salaries & Wages,60000.0,59768.21
+2026-02,Marketing,6100,Digital Advertising,45000.0,44518.13
+2026-02,Marketing,6200,Events & Trade Shows,20000.0,19823.93
+2026-02,Marketing,6650,Contractors & Agencies,15000.0,15199.62
+2026-02,Operations,5000,Cost of Goods Sold,387300.0,408036.5
+2026-02,Operations,6000,Salaries & Wages,90000.0,89085.57
+2026-02,Operations,6300,Freight & Shipping,42800.0,42251.9
+2026-02,Operations,6400,Facilities & Rent,30000.0,29389.67
+2026-02,Sales,4000,Product Revenue,866300.0,865218.73
+2026-02,Sales,4100,Services Revenue,122300.0,121734.78
+2026-02,Sales,6000,Salaries & Wages,140000.0,137616.75
+2026-02,Sales,6600,Travel & Entertainment,18000.0,18550.14
+2026-03,Engineering,6000,Salaries & Wages,210000.0,214575.0
+2026-03,Engineering,6500,Software & Cloud,38000.0,38212.42
+2026-03,Engineering,6650,Contractors & Agencies,25000.0,25424.32
+2026-03,G&A,6000,Salaries & Wages,80000.0,79360.66
+2026-03,G&A,6400,Facilities & Rent,12000.0,11858.89
+2026-03,G&A,6800,Professional Fees,15000.0,14760.42
+2026-03,G&A,6900,Insurance,9000.0,8938.09
+2026-03,Marketing,6000,Salaries & Wages,60000.0,59001.74
+2026-03,Marketing,6100,Digital Advertising,45000.0,45261.18
+2026-03,Marketing,6200,Events & Trade Shows,20000.0,20058.34
+2026-03,Marketing,6650,Contractors & Agencies,15000.0,15082.01
+2026-03,Operations,5000,Cost of Goods Sold,392800.0,393463.63
+2026-03,Operations,6000,Salaries & Wages,90000.0,90650.52
+2026-03,Operations,6300,Freight & Shipping,43400.0,44084.95
+2026-03,Operations,6400,Facilities & Rent,30000.0,144535.65
+2026-03,Sales,4000,Product Revenue,878600.0,860490.27
+2026-03,Sales,4100,Services Revenue,124000.0,126016.84
+2026-03,Sales,6000,Salaries & Wages,140000.0,142601.39
+2026-03,Sales,6600,Travel & Entertainment,18000.0,18244.42
+2026-04,Engineering,6000,Salaries & Wages,210000.0,214165.07
+2026-04,Engineering,6500,Software & Cloud,38000.0,37668.71
+2026-04,Engineering,6650,Contractors & Agencies,25000.0,24711.03
+2026-04,G&A,6000,Salaries & Wages,80000.0,78161.1
+2026-04,G&A,6400,Facilities & Rent,12000.0,12149.15
+2026-04,G&A,6800,Professional Fees,15000.0,15053.41
+2026-04,G&A,6900,Insurance,9000.0,9155.36
+2026-04,Marketing,6000,Salaries & Wages,60000.0,59497.67
+2026-04,Marketing,6100,Digital Advertising,45000.0,45183.1
+2026-04,Marketing,6200,Events & Trade Shows,20000.0,20293.11
+2026-04,Marketing,6650,Contractors & Agencies,15000.0,15266.71
+2026-04,Operations,5000,Cost of Goods Sold,395200.0,403676.8
+2026-04,Operations,6000,Salaries & Wages,90000.0,89569.57
+2026-04,Operations,6300,Freight & Shipping,43700.0,42306.31
+2026-04,Operations,6400,Facilities & Rent,30000.0,29150.03
+2026-04,Sales,4000,Product Revenue,883900.0,916934.47
+2026-04,Sales,4100,Services Revenue,124800.0,122098.61
+2026-04,Sales,6000,Salaries & Wages,140000.0,143388.97
+2026-04,Sales,6600,Travel & Entertainment,18000.0,17242.71
+2026-05,Engineering,6000,Salaries & Wages,210000.0,203721.84
+2026-05,Engineering,6500,Software & Cloud,38000.0,38462.62
+2026-05,Engineering,6650,Contractors & Agencies,25000.0,24706.62
+2026-05,G&A,6000,Salaries & Wages,80000.0,79803.03
+2026-05,G&A,6400,Facilities & Rent,12000.0,11873.01
+2026-05,G&A,6800,Professional Fees,15000.0,14970.11
+2026-05,G&A,6900,Insurance,9000.0,8620.35
+2026-05,Marketing,6000,Salaries & Wages,60000.0,60685.16
+2026-05,Marketing,6100,Digital Advertising,45000.0,44255.33
+2026-05,Marketing,6200,Events & Trade Shows,20000.0,19818.47
+2026-05,Marketing,6650,Contractors & Agencies,15000.0,14856.85
+2026-05,Operations,5000,Cost of Goods Sold,393800.0,393923.0
+2026-05,Operations,6000,Salaries & Wages,90000.0,91081.68
+2026-05,Operations,6300,Freight & Shipping,43500.0,43985.6
+2026-05,Operations,6400,Facilities & Rent,30000.0,30499.04
+2026-05,Sales,4000,Product Revenue,880900.0,871490.83
+2026-05,Sales,4100,Services Revenue,124400.0,-124893.06
+2026-05,Sales,6000,Salaries & Wages,140000.0,142189.57
+2026-05,Sales,6600,Travel & Entertainment,18000.0,17860.79
+2026-06,Engineering,6000,Salaries & Wages,210000.0,213871.96
+2026-06,Engineering,6500,Software & Cloud,38000.0,37113.06
+2026-06,Engineering,6650,Contractors & Agencies,25000.0,24871.6
+2026-06,G&A,6000,Salaries & Wages,80000.0,80868.85
+2026-06,G&A,6400,Facilities & Rent,12000.0,12071.32
+2026-06,G&A,6800,Professional Fees,15000.0,14777.19
+2026-06,G&A,6900,Insurance,9000.0,8674.64
+2026-06,Marketing,6000,Salaries & Wages,60000.0,58641.78
+2026-06,Marketing,6100,Digital Advertising,45000.0,44574.57
+2026-06,Marketing,6200,Events & Trade Shows,20000.0,20649.61
+2026-06,Marketing,6650,Contractors & Agencies,15000.0,14866.4
+2026-06,Operations,5000,Cost of Goods Sold,389100.0,379858.66
+2026-06,Operations,6000,Salaries & Wages,90000.0,89237.18
+2026-06,Operations,6300,Freight & Shipping,43000.0,43903.33
+2026-06,Operations,6400,Facilities & Rent,30000.0,28704.51
+2026-06,Sales,4000,Product Revenue,870300.0,838814.45
+2026-06,Sales,4100,Services Revenue,122900.0,118836.01
+2026-06,Sales,6000,Salaries & Wages,140000.0,136509.64
+2026-06,Sales,6600,Travel & Entertainment,18000.0,18179.9
+2026-07,G&A,6000,Salaries & Wages,80000.0,78146.85
+2026-07,G&A,6400,Facilities & Rent,12000.0,11883.06
+2026-07,G&A,6800,Professional Fees,15000.0,14483.74
+2026-07,G&A,6900,Insurance,9000.0,9142.91
+2026-07,Marketing,6000,Salaries & Wages,60000.0,62402.67
+2026-07,Marketing,6100,Digital Advertising,45000.0,44730.72
+2026-07,Marketing,6200,Events & Trade Shows,20000.0,19488.25
+2026-07,Marketing,6650,Contractors & Agencies,15000.0,15067.23
+2026-07,Operations,5000,Cost of Goods Sold,382100.0,385509.01
+2026-07,Operations,6000,Salaries & Wages,90000.0,93292.43
+2026-07,Operations,6300,Freight & Shipping,42200.0,40945.85
+2026-07,Operations,6400,Facilities & Rent,30000.0,29520.19
+2026-07,Sales,4000,Product Revenue,854800.0,856341.41
+2026-07,Sales,4100,Services Revenue,120700.0,119102.26
+2026-07,Sales,6000,Salaries & Wages,140000.0,140814.37
+2026-07,Sales,6600,Travel & Entertainment,18000.0,18009.83
+2026-08,Engineering,6000,Salaries & Wages,210000.0,204804.92
+2026-08,Engineering,6500,Software & Cloud,38000.0,35974.56
+2026-08,Engineering,6650,Contractors & Agencies,25000.0,25167.32
+2026-08,G&A,6000,Salaries & Wages,80000.0,82131.96
+2026-08,G&A,6400,Facilities & Rent,12000.0,12047.11
+2026-08,G&A,6800,Professional Fees,15000.0,14940.51
+2026-08,G&A,6900,Insurance,9000.0,8766.98
+2026-08,Marketing,6000,Salaries & Wages,60000.0,61257.19
+2026-08,Marketing,6100,Digital Advertising,45000.0,47246.32
+2026-08,Marketing,6100,Digital Advertising,45000.0,47246.32
+2026-08,Marketing,6200,Events & Trade Shows,20000.0,21456.93
+2026-08,Marketing,6650,Contractors & Agencies,15000.0,15155.4
+2026-08,Operations,5000,Cost of Goods Sold,374700.0,367084.77
+2026-08,Operations,6000,Salaries & Wages,90000.0,89065.45
+2026-08,Operations,6300,Freight & Shipping,41400.0,40766.48
+2026-08,Operations,6400,Facilities & Rent,30000.0,29894.41
+2026-08,Sales,4000,Product Revenue,838100.0,833443.88
+2026-08,Sales,4100,Services Revenue,118300.0,113950.09
+2026-08,Sales,6000,Salaries & Wages,140000.0,136445.47
+2026-08,Sales,6600,Travel & Entertainment,18000.0,18141.08
+2026-09,Engineering,6000,Salaries & Wages,210000.0,221174.47
+2026-09,Engineering,6500,Software & Cloud,38000.0,46554.36
+2026-09,Engineering,6650,Contractors & Agencies,25000.0,24435.67
+2026-09,G&A,6000,Salaries & Wages,80000.0,79090.03
+2026-09,G&A,6400,Facilities & Rent,12000.0,11632.32
+2026-09,G&A,6800,Professional Fees,15000.0,49542.72
+2026-09,G&A,6900,Insurance,9000.0,9355.3
+2026-09,G&A,6999,Misc - Uncategorized,0.0,23750.0
+2026-09,Marketing,6000,Salaries & Wages,60000.0,61474.11
+2026-09,Marketing,6100,Digital Advertising,45000.0,44438.29
+2026-09,Marketing,6200,Events & Trade Shows,20000.0,67671.86
+2026-09,Marketing,6650,Contractors & Agencies,15000.0,14728.04
+2026-09,Operations,5000,Cost of Goods Sold,368500.0,350748.81
+2026-09,Operations,6000,Salaries & Wages,90000.0,89647.56
+2026-09,Operations,6300,Freight & Shipping,40700.0,52736.78
+2026-09,Operations,6400,Facilities & Rent,30000.0,30334.55
+2026-09,Sales,4000,Product Revenue,824300.0,764734.98
+2026-09,Sales,4100,Services Revenue,116400.0,116243.49
+2026-09,Sales,6000,Salaries & Wages,140000.0,146187.75
+2026-09,Sales,6600,Travel & Entertainment,18000.0,18058.62

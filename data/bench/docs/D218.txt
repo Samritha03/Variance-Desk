@@ -1,0 +1,6 @@
+id: D218
+date: 2024-09-20
+type: invoice
+title: Beacon Underwriters premium notice BEA-3080 (last year)
+---
+Beacon Underwriters, premium notice BEA-0000. cyber coverage upgrade: higher limits added mid-term. Amount due: $7,691.48.

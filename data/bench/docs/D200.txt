@@ -1,0 +1,9 @@
+id: D200
+date: 2025-08-15
+type: email
+title: Estimate request: Pacific Fabrication
+---
+From: Marcus Hale
+To: Leo Marchetti
+
+Pacific Fabrication sent a price estimate for follow-on work related to the renegotiated fabric pricing. Quote only. Nothing has been ordered and nothing was charged this month.

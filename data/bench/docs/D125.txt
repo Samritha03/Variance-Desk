@@ -1,0 +1,9 @@
+id: D125
+date: 2025-05-06
+type: email
+title: Estimate request: Northline Freight
+---
+From: Aisha Karim
+To: Dana Whitfield
+
+Northline Freight sent a price estimate for follow-on work related to the fuel surcharge. Quote only. Nothing has been ordered and nothing was charged this month.

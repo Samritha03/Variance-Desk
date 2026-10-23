@@ -1,0 +1,9 @@
+id: D191
+date: 2025-11-11
+type: email
+title: supplier volume rebate confirmed
+---
+From: Aisha Karim
+To: Jonas Berg
+
+Aisha Karim: Delta Textile Mills confirmed a year-end volume rebate credited against purchases. Cost of goods will run below plan until budgets are reset.

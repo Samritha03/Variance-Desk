@@ -1,0 +1,9 @@
+id: D235
+date: 2026-04-15
+type: email
+title: Estimate request: Payroll bonus run
+---
+From: Jonas Berg
+To: Priya Nair
+
+Payroll bonus run sent a price estimate for follow-on work related to the retention bonus payout. Quote only. Nothing has been ordered and nothing was charged this month.

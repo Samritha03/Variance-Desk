@@ -1,0 +1,84 @@
+{
+  "company": "Harborline Goods Co. (fictional)",
+  "focus_month": "2026-09",
+  "planted_variances": [
+    {
+      "department": "Marketing",
+      "account_code": "6200",
+      "account_name": "Events & Trade Shows",
+      "multiplier": 3.4,
+      "true_cause": "Fall trade show (booth, travel, freight) landed in September"
+    },
+    {
+      "department": "Sales",
+      "account_code": "4000",
+      "account_name": "Product Revenue",
+      "multiplier": 0.93,
+      "true_cause": "Two enterprise orders slipped from September into Q4"
+    },
+    {
+      "department": "Engineering",
+      "account_code": "6500",
+      "account_name": "Software & Cloud",
+      "multiplier": 1.22,
+      "true_cause": "Cloud usage spike from a new data pipeline"
+    },
+    {
+      "department": "Operations",
+      "account_code": "6300",
+      "account_name": "Freight & Shipping",
+      "multiplier": 1.3,
+      "true_cause": "Carrier fuel surcharge plus expedited shipments"
+    },
+    {
+      "department": "G&A",
+      "account_code": "6800",
+      "account_name": "Professional Fees",
+      "multiplier": 3.3,
+      "true_cause": "Annual audit fees billed in one month"
+    },
+    {
+      "department": "Operations",
+      "account_code": "5000",
+      "account_name": "Cost of Goods Sold",
+      "multiplier": 0.95,
+      "true_cause": "Lower volume following the revenue shortfall"
+    }
+  ],
+  "planted_data_issues": [
+    {
+      "type": "missing_period",
+      "department": "Engineering",
+      "month": "2026-07",
+      "detail": "All Engineering rows for July removed"
+    },
+    {
+      "type": "unmapped_account",
+      "department": "G&A",
+      "month": "2026-09",
+      "account_code": "6999",
+      "detail": "Account 6999 not in chart of accounts"
+    },
+    {
+      "type": "duplicate_row",
+      "department": "Marketing",
+      "month": "2026-08",
+      "account_code": "6100",
+      "detail": "Digital Advertising August row duplicated"
+    },
+    {
+      "type": "sign_reversal",
+      "department": "Sales",
+      "month": "2026-05",
+      "account_code": "4100",
+      "detail": "Services Revenue May actual posted negative"
+    },
+    {
+      "type": "spike",
+      "department": "Operations",
+      "month": "2026-03",
+      "account_code": "6400",
+      "detail": "Facilities March actual ~5x normal"
+    }
+  ]
+}

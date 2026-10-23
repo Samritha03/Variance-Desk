@@ -1,0 +1,10 @@
+id: D08
+date: 2026-09-08
+type: email
+title: Ingestion pipeline v2 is live
+---
+From: Priyanka Nair, Engineering Lead
+To: Engineering, Finance
+Subject: Ingestion pipeline v2 is live
+
+Pipeline v2 went into production on September 8 and runs continuously on AWS compute. Expect cloud spend to run about $8,000 to $9,000 per month higher until we right-size the instances in Q4. This was not in the FY2026 budget.

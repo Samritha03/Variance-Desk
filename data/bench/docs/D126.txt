@@ -1,0 +1,9 @@
+id: D126
+date: 2026-06-05
+type: email
+title: Carrier notice: port congestion rerouting
+---
+From: Aisha Karim
+To: Marcus Hale
+
+Aisha Karim: Coastal Parcel notified us of rerouting around the congested port at premium rates. Finance should expect higher freight until it ends.

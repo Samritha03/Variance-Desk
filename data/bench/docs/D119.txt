@@ -1,0 +1,9 @@
+id: D119
+date: 2026-04-15
+type: email
+title: Proposal: expanded forecasting model training (not approved)
+---
+From: Elena Ortiz
+To: Marcus Hale
+
+Proposal to add a second phase to the forecasting model training with Google Cloud. This was reviewed and not approved, so no spend is planned. Revisit next year.

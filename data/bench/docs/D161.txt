@@ -1,0 +1,9 @@
+id: D161
+date: 2025-07-13
+type: email
+title: Approved: product launch campaign
+---
+From: Jonas Berg
+To: Tom Reyes
+
+Jonas Berg to Tom Reyes: approved extra spend for the product launch campaign: an extra launch burst across paid social. It runs for one month.

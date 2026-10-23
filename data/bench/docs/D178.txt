@@ -1,0 +1,6 @@
+id: D178
+date: 2024-05-20
+type: invoice
+title: Harbor Commercial invoice HAR-8413 (last year)
+---
+Harbor Commercial, invoice HAR-0000. office expansion: a deposit for the added floor. Amount due: $60,342.18.

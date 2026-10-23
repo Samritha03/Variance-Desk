@@ -1,0 +1,9 @@
+id: D249
+date: 2025-12-29
+type: email
+title: Engineering: new role opening next month
+---
+From: HR
+To: Dana Whitfield
+
+Offer accepted for an open Engineering role. Start date is the first of next month. No cost in the current month.

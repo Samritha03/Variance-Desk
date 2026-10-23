@@ -1,0 +1,9 @@
+id: D226
+date: 2025-10-08
+type: email
+title: support plan renewals update
+---
+From: Dana Whitfield
+To: Elena Ortiz
+
+Dana Whitfield to Elena Ortiz: the support plan renewals: renewals slipped while pricing was reviewed. Services revenue is behind plan until the queue clears.

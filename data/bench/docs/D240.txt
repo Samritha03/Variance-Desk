@@ -1,0 +1,9 @@
+id: D240
+date: 2025-12-06
+type: email
+title: Estimate request: Payroll run (supplemental)
+---
+From: Dana Whitfield
+To: Jonas Berg
+
+Payroll run (supplemental) sent a price estimate for follow-on work related to the early start of two senior hires. Quote only. Nothing has been ordered and nothing was charged this month.

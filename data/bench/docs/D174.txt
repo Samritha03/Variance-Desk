@@ -1,0 +1,9 @@
+id: D174
+date: 2025-08-16
+type: email
+title: Proposal: expanded lease reconciliation (not approved)
+---
+From: Aisha Karim
+To: Priya Nair
+
+Proposal to add a second phase to the lease reconciliation with Rivergate Properties. This was reviewed and not approved, so no spend is planned. Revisit next year.

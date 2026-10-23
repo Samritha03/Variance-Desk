@@ -1,0 +1,6 @@
+id: D20
+date: 2026-09-30
+type: checklist
+title: September close checklist
+---
+September close checklist. Accruals, bank reconciliations, intercompany matching, payroll tie-out, review of open purchase orders.

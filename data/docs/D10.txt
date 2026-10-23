@@ -1,0 +1,7 @@
+id: D10
+date: 2026-08-28
+type: notice
+title: Northline Freight rate notice
+---
+Northline Freight, rate notice.
+Effective September 1, 2026 the fuel surcharge increases from 8% to 14% on all ground shipments. This applies to every account.

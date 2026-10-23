@@ -1,0 +1,9 @@
+id: D164
+date: 2025-07-16
+type: email
+title: Proposal: expanded product launch campaign (not approved)
+---
+From: Priya Nair
+To: Tom Reyes
+
+Proposal to add a second phase to the product launch campaign with Meta Ads. This was reviewed and not approved, so no spend is planned. Revisit next year.

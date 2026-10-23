@@ -1,0 +1,9 @@
+id: D210
+date: 2025-09-15
+type: email
+title: Estimate request: Corporate cards
+---
+From: Tom Reyes
+To: Aisha Karim
+
+Corporate cards sent a price estimate for follow-on work related to the customer summit travel. Quote only. Nothing has been ordered and nothing was charged this month.

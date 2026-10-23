@@ -1,0 +1,9 @@
+id: D114
+date: 2025-02-13
+type: email
+title: Proposal: expanded data warehouse migration (not approved)
+---
+From: Aisha Karim
+To: Tom Reyes
+
+Proposal to add a second phase to the data warehouse migration with Amazon Web Services. This was reviewed and not approved, so no spend is planned. Revisit next year.

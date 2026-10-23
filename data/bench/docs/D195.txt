@@ -1,0 +1,9 @@
+id: D195
+date: 2025-12-06
+type: email
+title: Estimate request: Delta Textile Mills
+---
+From: Tom Reyes
+To: Jonas Berg
+
+Delta Textile Mills sent a price estimate for follow-on work related to the supplier volume rebate. Quote only. Nothing has been ordered and nothing was charged this month.

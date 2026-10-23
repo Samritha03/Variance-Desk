@@ -1,0 +1,9 @@
+id: D115
+date: 2025-04-05
+type: email
+title: Estimate request: Amazon Web Services
+---
+From: Elena Ortiz
+To: Tom Reyes
+
+Amazon Web Services sent a price estimate for follow-on work related to the data warehouse migration. Quote only. Nothing has been ordered and nothing was charged this month.

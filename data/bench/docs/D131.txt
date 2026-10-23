@@ -1,0 +1,9 @@
+id: D131
+date: 2025-05-06
+type: email
+title: annual audit: billing
+---
+From: Leo Marchetti
+To: Dana Whitfield
+
+Leo Marchetti to Dana Whitfield: Whitfield & Crane LLP finished fieldwork and report for the annual audit. They bill the full engagement at once rather than monthly.

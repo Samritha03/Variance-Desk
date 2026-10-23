@@ -1,0 +1,9 @@
+id: D205
+date: 2026-01-05
+type: email
+title: Estimate request: Skyline Travel
+---
+From: Leo Marchetti
+To: Aisha Karim
+
+Skyline Travel sent a price estimate for follow-on work related to the annual sales kickoff. Quote only. Nothing has been ordered and nothing was charged this month.

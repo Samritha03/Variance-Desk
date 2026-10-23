@@ -1,0 +1,9 @@
+id: D190
+date: 2025-07-06
+type: email
+title: Estimate request: Contract developers
+---
+From: Priya Nair
+To: Priya Nair
+
+Contract developers sent a price estimate for follow-on work related to the mobile app rebuild. Quote only. Nothing has been ordered and nothing was charged this month.

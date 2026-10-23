@@ -1,0 +1,9 @@
+id: D196
+date: 2025-07-11
+type: email
+title: renegotiated fabric pricing confirmed
+---
+From: Tom Reyes
+To: Leo Marchetti
+
+Tom Reyes: Pacific Fabrication confirmed new lower unit prices effective this month. Cost of goods will run below plan until budgets are reset.

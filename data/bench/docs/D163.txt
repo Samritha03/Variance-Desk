@@ -1,0 +1,6 @@
+id: D163
+date: 2024-08-20
+type: invoice
+title: Meta Ads statement MET-8499 (last year)
+---
+Meta Ads, statement MET-0000. product launch campaign: an extra launch burst across paid social. Total charges: $38,069.59.

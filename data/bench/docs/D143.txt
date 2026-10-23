@@ -1,0 +1,6 @@
+id: D143
+date: 2024-06-20
+type: note
+title: Pipeline review (last year)
+---
+Pipeline review. Northgate Outfitters: two enterprise orders slipped, customer pushed their delivery acceptance to next month. Expected next month.

@@ -1,0 +1,95 @@
+txn_id,date,month,department,account_code,account_name,counterparty,description,amount,reference
+T10001,2025-02-24,2025-02,Marketing,6200,Events & Trade Shows,Expo Partners LLC,Retail expo: booth and display package,44600.0,EXP-8629
+T10002,2025-02-07,2025-02,Marketing,6200,Events & Trade Shows,Events Vendor A,Regular monthly charges,24453.92,R-34890
+T10003,2025-02-17,2025-02,Marketing,6200,Events & Trade Shows,Events Vendor B,Regular monthly charges,30546.08,R-77096
+T10004,2026-04-24,2026-04,Marketing,6200,Events & Trade Shows,Summit Events Inc,Home and garden summit: sponsorship and exhibitor fees,52900.0,SUM-3580
+T10005,2026-04-03,2026-04,Marketing,6200,Events & Trade Shows,Events Vendor A,Regular monthly charges,37797.63,R-18279
+T10006,2026-04-08,2026-04,Marketing,6200,Events & Trade Shows,Events Vendor B,Regular monthly charges,42202.37,R-14673
+T10007,2025-03-24,2025-03,Engineering,6500,Software & Cloud,Amazon Web Services,Data warehouse migration: dual-running the old and new warehouses,12400.0,AMA-8492
+T10008,2025-03-04,2025-03,Engineering,6500,Software & Cloud,Software Vendor A,Regular monthly charges,9657.51,R-82255
+T10009,2025-03-12,2025-03,Engineering,6500,Software & Cloud,Software Vendor B,Regular monthly charges,8342.49,R-43291
+T10010,2026-05-24,2026-05,Engineering,6500,Software & Cloud,Google Cloud,Forecasting model training: GPU hours for model training,14500.0,GOO-1008
+T10011,2026-05-17,2026-05,Engineering,6500,Software & Cloud,Software Vendor A,Regular monthly charges,7151.38,R-16858
+T10012,2026-05-24,2026-05,Engineering,6500,Software & Cloud,Software Vendor B,Regular monthly charges,10848.62,R-59212
+T10013,2025-04-24,2025-04,Operations,6300,Freight & Shipping,Northline Freight,Fuel surcharge: a 14% fuel surcharge effective the first of the month,15800.0,NOR-2933
+T10014,2025-04-03,2025-04,Operations,6300,Freight & Shipping,Freight Vendor A,Regular monthly charges,7377.37,R-11435
+T10015,2025-04-27,2025-04,Operations,6300,Freight & Shipping,Freight Vendor B,Regular monthly charges,10622.63,R-70940
+T10016,2026-06-24,2026-06,Operations,6300,Freight & Shipping,Coastal Parcel,Port congestion rerouting: rerouting around the congested port at premium rates,22700.0,COA-4487
+T10017,2026-06-11,2026-06,Operations,6300,Freight & Shipping,Freight Vendor A,Regular monthly charges,15327.6,R-87691
+T10018,2026-06-08,2026-06,Operations,6300,Freight & Shipping,Freight Vendor B,Regular monthly charges,26672.4,R-12573
+T10019,2025-05-24,2025-05,G&A,6800,Professional Fees,Whitfield & Crane LLP,Annual audit: fieldwork and report for the annual audit,13700.0,WHI-6389
+T10020,2025-05-04,2025-05,G&A,6800,Professional Fees,Professional Vendor A,Regular monthly charges,10126.0,R-19736
+T10021,2025-05-20,2025-05,G&A,6800,Professional Fees,Professional Vendor B,Regular monthly charges,7874.0,R-37359
+T10022,2026-07-24,2026-07,G&A,6800,Professional Fees,Marlow Hart LLP,Litigation settlement counsel: outside counsel for the vendor dispute settlement,30000.0,MAR-4741
+T10023,2026-07-07,2026-07,G&A,6800,Professional Fees,Professional Vendor A,Regular monthly charges,46684.68,R-34877
+T10024,2026-07-19,2026-07,G&A,6800,Professional Fees,Professional Vendor B,Regular monthly charges,33315.32,R-92441
+T10025,2025-06-17,2025-06,Sales,4000,Product Revenue,Product Vendor A,Regular monthly charges,126350.69,R-88180
+T10026,2025-06-18,2025-06,Sales,4000,Product Revenue,Product Vendor B,Regular monthly charges,176649.31,R-48461
+T10027,2025-02-18,2025-02,Sales,4000,Product Revenue,Product Vendor A,Regular monthly charges,46887.71,R-58337
+T10028,2025-02-06,2025-02,Sales,4000,Product Revenue,Product Vendor B,Regular monthly charges,51312.29,R-84995
+T10029,2025-07-06,2025-07,Sales,4000,Product Revenue,Product Vendor A,Regular monthly charges,239193.28,R-51799
+T10030,2025-07-04,2025-07,Sales,4000,Product Revenue,Product Vendor B,Regular monthly charges,275206.72,R-19493
+T10031,2025-03-23,2025-03,Sales,4000,Product Revenue,Product Vendor A,Regular monthly charges,433212.6,R-91914
+T10032,2025-03-14,2025-03,Sales,4000,Product Revenue,Product Vendor B,Regular monthly charges,371187.4,R-60113
+T10033,2025-08-24,2025-08,Marketing,6100,Digital Advertising,Meta Ads,Product launch campaign: an extra launch burst across paid social,56800.0,MET-8499
+T10034,2025-08-18,2025-08,Marketing,6100,Digital Advertising,Digital Vendor A,Regular monthly charges,35594.43,R-20981
+T10035,2025-08-02,2025-08,Marketing,6100,Digital Advertising,Digital Vendor B,Regular monthly charges,44405.57,R-77440
+T10036,2025-04-24,2025-04,Marketing,6100,Digital Advertising,Programmatic Partners,Holiday pre-season push: front-loaded holiday display buying,14000.0,PRO-4318
+T10037,2025-04-23,2025-04,Marketing,6100,Digital Advertising,Digital Vendor A,Regular monthly charges,14020.76,R-54895
+T10038,2025-04-17,2025-04,Marketing,6100,Digital Advertising,Digital Vendor B,Regular monthly charges,15979.24,R-67924
+T10039,2025-09-24,2025-09,G&A,6400,Facilities & Rent,Rivergate Properties,Lease reconciliation: a catch-up charge for last year's operating expenses,46800.0,RIV-4438
+T10040,2025-09-24,2025-09,G&A,6400,Facilities & Rent,Facilities Vendor A,Regular monthly charges,24159.45,R-15317
+T10041,2025-09-10,2025-09,G&A,6400,Facilities & Rent,Facilities Vendor B,Regular monthly charges,30840.55,R-18406
+T10042,2025-05-24,2025-05,G&A,6400,Facilities & Rent,Harbor Commercial,Office expansion: a deposit for the added floor,96200.0,HAR-8413
+T10043,2025-05-21,2025-05,G&A,6400,Facilities & Rent,Facilities Vendor A,Regular monthly charges,51240.87,R-46454
+T10044,2025-05-23,2025-05,G&A,6400,Facilities & Rent,Facilities Vendor B,Regular monthly charges,68759.13,R-15437
+T10045,2025-10-24,2025-10,Engineering,6650,Contractors & Agencies,Brightpath Agency,Security remediation: contract engineers to fix the penetration test findings,95300.0,BRI-4889
+T10046,2025-10-05,2025-10,Engineering,6650,Contractors & Agencies,Contractors Vendor A,Regular monthly charges,59729.99,R-92467
+T10047,2025-10-05,2025-10,Engineering,6650,Contractors & Agencies,Contractors Vendor B,Regular monthly charges,60270.01,R-68521
+T10048,2025-06-24,2025-06,Engineering,6650,Contractors & Agencies,Contract developers,Mobile app rebuild: a short-term team to finish the app rebuild,22900.0,CON-8736
+T10049,2025-06-10,2025-06,Engineering,6650,Contractors & Agencies,Contractors Vendor A,Regular monthly charges,46867.94,R-39682
+T10050,2025-06-19,2025-06,Engineering,6650,Contractors & Agencies,Contractors Vendor B,Regular monthly charges,33132.06,R-55316
+T10051,2025-11-24,2025-11,Operations,5000,Cost of Goods Sold,Delta Textile Mills,Supplier volume rebate: a year-end volume rebate credited against purchases,-15100.0,DEL-8430
+T10052,2025-11-14,2025-11,Operations,5000,Cost of Goods Sold,Cost Vendor A,Regular monthly charges,16757.34,R-10881
+T10053,2025-11-20,2025-11,Operations,5000,Cost of Goods Sold,Cost Vendor B,Regular monthly charges,25242.66,R-82091
+T10054,2025-07-24,2025-07,Operations,5000,Cost of Goods Sold,Pacific Fabrication,Renegotiated fabric pricing: new lower unit prices effective this month,-15900.0,PAC-9797
+T10055,2025-07-24,2025-07,Operations,5000,Cost of Goods Sold,Cost Vendor A,Regular monthly charges,9094.36,R-44325
+T10056,2025-07-13,2025-07,Operations,5000,Cost of Goods Sold,Cost Vendor B,Regular monthly charges,8905.64,R-12051
+T10057,2025-12-24,2025-12,Sales,6600,Travel & Entertainment,Skyline Travel,Annual sales kickoff: flights and hotel for the whole sales team,38400.0,SKY-1575
+T10058,2025-12-17,2025-12,Sales,6600,Travel & Entertainment,Travel Vendor A,Regular monthly charges,56576.67,R-28415
+T10059,2025-12-18,2025-12,Sales,6600,Travel & Entertainment,Travel Vendor B,Regular monthly charges,63423.33,R-29487
+T10060,2025-08-24,2025-08,Sales,6600,Travel & Entertainment,Corporate cards,Customer summit travel: executive travel to the customer summit,50300.0,COR-3692
+T10061,2025-08-10,2025-08,Sales,6600,Travel & Entertainment,Travel Vendor A,Regular monthly charges,36531.21,R-83396
+T10062,2025-08-23,2025-08,Sales,6600,Travel & Entertainment,Travel Vendor B,Regular monthly charges,43468.79,R-50854
+T10063,2026-01-24,2026-01,G&A,6900,Insurance,Atlas Mutual,Policy renewal: a renewal premium increase after two claims last year,10700.0,ATL-7177
+T10064,2026-01-14,2026-01,G&A,6900,Insurance,Insurance Vendor A,Regular monthly charges,6455.38,R-77635
+T10065,2026-01-27,2026-01,G&A,6900,Insurance,Insurance Vendor B,Regular monthly charges,11544.62,R-81302
+T10066,2025-09-24,2025-09,G&A,6900,Insurance,Beacon Underwriters,Cyber coverage upgrade: higher limits added mid-term,13800.0,BEA-3080
+T10067,2025-09-18,2025-09,G&A,6900,Insurance,Insurance Vendor A,Regular monthly charges,10115.63,R-72460
+T10068,2025-09-05,2025-09,G&A,6900,Insurance,Insurance Vendor B,Regular monthly charges,13884.37,R-51577
+T10069,2026-02-25,2026-02,Sales,4100,Services Revenue,Services Vendor A,Regular monthly charges,60497.66,R-75493
+T10070,2026-02-05,2026-02,Sales,4100,Services Revenue,Services Vendor B,Regular monthly charges,71402.34,R-86314
+T10071,2025-10-20,2025-10,Sales,4100,Services Revenue,Services Vendor A,Regular monthly charges,59416.87,R-90178
+T10072,2025-10-09,2025-10,Sales,4100,Services Revenue,Services Vendor B,Regular monthly charges,70683.13,R-27886
+T10073,2026-03-24,2026-03,Engineering,6000,Salaries & Wages,Payroll bonus run,Retention bonus payout: a one-time retention bonus paid to the platform team,17500.0,PAY-5251
+T10074,2026-03-19,2026-03,Engineering,6000,Salaries & Wages,Salaries Vendor A,Regular monthly charges,11821.68,R-65263
+T10075,2026-03-08,2026-03,Engineering,6000,Salaries & Wages,Salaries Vendor B,Regular monthly charges,12178.32,R-26515
+T10076,2025-11-24,2025-11,Engineering,6000,Salaries & Wages,Payroll run (supplemental),Early start of two senior hires: two senior engineers who started a month early,37000.0,PAY-6627
+T10077,2025-11-27,2025-11,Engineering,6000,Salaries & Wages,Salaries Vendor A,Regular monthly charges,26071.85,R-34773
+T10078,2025-11-17,2025-11,Engineering,6000,Salaries & Wages,Salaries Vendor B,Regular monthly charges,28928.15,R-19247
+T10079,2025-04-20,2025-04,Marketing,6000,Salaries & Wages,Salaries Vendor A,Regular monthly charges,50330.27,R-22484
+T10080,2025-04-06,2025-04,Marketing,6000,Salaries & Wages,Salaries Vendor B,Regular monthly charges,48850.69,R-18119
+T10081,2025-06-13,2025-06,Sales,6000,Salaries & Wages,Salaries Vendor A,Regular monthly charges,116707.68,R-88765
+T10082,2025-06-22,2025-06,Sales,6000,Salaries & Wages,Salaries Vendor B,Regular monthly charges,110795.4,R-11736
+T10083,2025-08-07,2025-08,Operations,6000,Salaries & Wages,Salaries Vendor A,Regular monthly charges,95964.17,R-89281
+T10084,2025-08-18,2025-08,Operations,6000,Salaries & Wages,Salaries Vendor B,Regular monthly charges,130411.3,R-22425
+T10085,2025-10-27,2025-10,G&A,6000,Salaries & Wages,Salaries Vendor A,Regular monthly charges,99818.65,R-54692
+T10086,2025-10-10,2025-10,G&A,6000,Salaries & Wages,Salaries Vendor B,Regular monthly charges,128763.03,R-43851
+T10087,2025-12-14,2025-12,Engineering,6000,Salaries & Wages,Salaries Vendor A,Regular monthly charges,75803.84,R-33796
+T10088,2025-12-25,2025-12,Engineering,6000,Salaries & Wages,Salaries Vendor B,Regular monthly charges,78755.05,R-37109
+T10089,2026-02-03,2026-02,Operations,6400,Facilities & Rent,Facilities Vendor A,Regular monthly charges,109107.29,R-91791
+T10090,2026-02-10,2026-02,Operations,6400,Facilities & Rent,Facilities Vendor B,Regular monthly charges,114551.77,R-40422
+T10091,2026-04-22,2026-04,Marketing,6650,Contractors & Agencies,Contractors Vendor A,Regular monthly charges,119326.81,R-75220
+T10092,2026-04-24,2026-04,Marketing,6650,Contractors & Agencies,Contractors Vendor B,Regular monthly charges,109253.73,R-37947
+T10093,2026-07-26,2026-07,Operations,6300,Freight & Shipping,Freight Vendor A,Regular monthly charges,31313.98,R-16613
+T10094,2026-07-22,2026-07,Operations,6300,Freight & Shipping,Freight Vendor B,Regular monthly charges,34502.4,R-35617

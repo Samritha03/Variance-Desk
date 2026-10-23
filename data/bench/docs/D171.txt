@@ -1,0 +1,9 @@
+id: D171
+date: 2025-09-05
+type: email
+title: Landlord notice: lease reconciliation
+---
+From: Aisha Karim
+To: Priya Nair
+
+Aisha Karim: Rivergate Properties sent a catch-up charge for last year's operating expenses. One-time item, not a change to monthly rent.

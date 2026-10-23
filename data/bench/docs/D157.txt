@@ -1,0 +1,6 @@
+id: D157
+date: 2025-03-24
+type: note
+title: Sales ops note
+---
+Sales ops note. Larkspur Home placed the opening stocking order (new distributor launch order). Orders booked this month.

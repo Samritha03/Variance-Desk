@@ -1,0 +1,9 @@
+id: D159
+date: 2025-02-13
+type: email
+title: Proposal: expanded new distributor launch order (not approved)
+---
+From: Priya Nair
+To: Marcus Hale
+
+Proposal to add a second phase to the new distributor launch order with Larkspur Home. This was reviewed and not approved, so no spend is planned. Revisit next year.

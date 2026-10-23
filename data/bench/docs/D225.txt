@@ -1,0 +1,9 @@
+id: D225
+date: 2026-03-18
+type: email
+title: Estimate request: Install & Setup Services
+---
+From: Aisha Karim
+To: Priya Nair
+
+Install & Setup Services sent a price estimate for follow-on work related to the installation backlog. Quote only. Nothing has been ordered and nothing was charged this month.

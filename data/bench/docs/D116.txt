@@ -1,0 +1,9 @@
+id: D116
+date: 2026-05-09
+type: email
+title: forecasting model training is under way
+---
+From: Aisha Karim
+To: Marcus Hale
+
+Aisha Karim: the forecasting model training started this month. Until cutover we are GPU hours for model training, so cloud usage runs well above plan. Expect it to normalise after cutover.

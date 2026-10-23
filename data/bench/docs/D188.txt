@@ -1,0 +1,6 @@
+id: D188
+date: 2024-06-20
+type: invoice
+title: Contract developers invoice CON-8736 (last year)
+---
+Contract developers, invoice CON-0000. mobile app rebuild: a short-term team to finish the app rebuild. Amount due: $18,301.73.

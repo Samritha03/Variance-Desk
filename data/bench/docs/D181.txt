@@ -1,0 +1,9 @@
+id: D181
+date: 2025-09-16
+type: email
+title: security remediation: contractors engaged
+---
+From: Tom Reyes
+To: Marcus Hale
+
+Tom Reyes to Marcus Hale: we engaged Brightpath Agency for contract engineers to fix the penetration test findings. Four weeks, fixed scope.

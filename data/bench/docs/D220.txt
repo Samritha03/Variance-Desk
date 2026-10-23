@@ -1,0 +1,9 @@
+id: D220
+date: 2025-10-06
+type: email
+title: Estimate request: Beacon Underwriters
+---
+From: Marcus Hale
+To: Dana Whitfield
+
+Beacon Underwriters sent a price estimate for follow-on work related to the cyber coverage upgrade. Quote only. Nothing has been ordered and nothing was charged this month.

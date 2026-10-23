@@ -1,0 +1,14 @@
+account_code,account_name,account_type,category
+4000,Product Revenue,revenue,Revenue
+4100,Services Revenue,revenue,Revenue
+5000,Cost of Goods Sold,expense,COGS
+6000,Salaries & Wages,expense,People
+6100,Digital Advertising,expense,Marketing
+6200,Events & Trade Shows,expense,Marketing
+6300,Freight & Shipping,expense,Operations
+6400,Facilities & Rent,expense,Facilities
+6500,Software & Cloud,expense,Technology
+6600,Travel & Entertainment,expense,T&E
+6650,Contractors & Agencies,expense,Outside Services
+6800,Professional Fees,expense,Outside Services
+6900,Insurance,expense,G&A

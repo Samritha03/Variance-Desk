@@ -1,0 +1,6 @@
+id: D152
+date: 2025-07-20
+type: note
+title: Sales ops note
+---
+Sales ops note. Oakridge Stores ran the promotion two weeks earlier than planned (seasonal promotion). Orders booked this month.

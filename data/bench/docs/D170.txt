@@ -1,0 +1,9 @@
+id: D170
+date: 2025-05-06
+type: email
+title: Estimate request: Programmatic Partners
+---
+From: Tom Reyes
+To: Marcus Hale
+
+Programmatic Partners sent a price estimate for follow-on work related to the holiday pre-season push. Quote only. Nothing has been ordered and nothing was charged this month.

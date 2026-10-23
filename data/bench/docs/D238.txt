@@ -1,0 +1,6 @@
+id: D238
+date: 2024-11-20
+type: payroll
+title: Payroll register PAY-6627 (last year)
+---
+Payroll register PAY-0000. early start of two senior hires: two senior engineers who started a month early. Amount: $27,398.47.

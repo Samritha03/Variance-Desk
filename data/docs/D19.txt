@@ -1,0 +1,7 @@
+id: D19
+date: 2026-09-25
+type: agenda
+title: Board meeting agenda
+---
+Board meeting agenda, September 25.
+1. Q3 close and budget review. 2. Product roadmap. 3. Hiring plan. 4. Variance discussion deferred to the October meeting.

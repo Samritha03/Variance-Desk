@@ -1,0 +1,9 @@
+id: D155
+date: 2025-08-15
+type: email
+title: Estimate request: Oakridge Stores
+---
+From: Priya Nair
+To: Dana Whitfield
+
+Oakridge Stores sent a price estimate for follow-on work related to the seasonal promotion. Quote only. Nothing has been ordered and nothing was charged this month.

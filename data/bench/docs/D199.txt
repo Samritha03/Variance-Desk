@@ -1,0 +1,9 @@
+id: D199
+date: 2025-05-26
+type: email
+title: Proposal: expanded renegotiated fabric pricing (not approved)
+---
+From: Elena Ortiz
+To: Leo Marchetti
+
+Proposal to add a second phase to the renegotiated fabric pricing with Pacific Fabrication. This was reviewed and not approved, so no spend is planned. Revisit next year.

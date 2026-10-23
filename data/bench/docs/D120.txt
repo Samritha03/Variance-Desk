@@ -1,0 +1,9 @@
+id: D120
+date: 2026-06-15
+type: email
+title: Estimate request: Google Cloud
+---
+From: Priya Nair
+To: Marcus Hale
+
+Google Cloud sent a price estimate for follow-on work related to the forecasting model training. Quote only. Nothing has been ordered and nothing was charged this month.

@@ -1,0 +1,6 @@
+id: D15
+date: 2025-12-10
+type: memo
+title: Merit cycle memo
+---
+HR memo. Annual merit increases take effect January 1, 2026 for all departments.

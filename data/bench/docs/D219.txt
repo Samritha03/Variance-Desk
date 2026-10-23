@@ -1,0 +1,9 @@
+id: D219
+date: 2025-07-27
+type: email
+title: Proposal: expanded cyber coverage upgrade (not approved)
+---
+From: Dana Whitfield
+To: Dana Whitfield
+
+Proposal to add a second phase to the cyber coverage upgrade with Beacon Underwriters. This was reviewed and not approved, so no spend is planned. Revisit next year.

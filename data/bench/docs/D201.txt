@@ -1,0 +1,9 @@
+id: D201
+date: 2025-11-16
+type: email
+title: annual sales kickoff logistics
+---
+From: Tom Reyes
+To: Aisha Karim
+
+Tom Reyes to Aisha Karim: the annual sales kickoff happened this month: flights and hotel for the whole sales team. Budgeted in Q1 originally, moved up.

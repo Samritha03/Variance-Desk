@@ -1,0 +1,9 @@
+id: D236
+date: 2025-11-04
+type: email
+title: early start of two senior hires
+---
+From: Priya Nair
+To: Jonas Berg
+
+Priya Nair to Jonas Berg: approved the early start of two senior hires: two senior engineers who started a month early. Not recurring.

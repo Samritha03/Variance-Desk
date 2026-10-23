@@ -1,0 +1,9 @@
+id: D101
+date: 2025-02-12
+type: email
+title: Approval to attend the Retail Expo
+---
+From: Leo Marchetti
+To: Aisha Karim
+
+Leo Marchetti to Aisha Karim: approved. We will exhibit at the Retail Expo this month. It was not in the plan. Expo Partners LLC will bill the booth and display package, and the team travels the week before.

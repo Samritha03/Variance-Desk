@@ -1,0 +1,9 @@
+id: D231
+date: 2026-02-12
+type: email
+title: retention bonus payout
+---
+From: Dana Whitfield
+To: Priya Nair
+
+Dana Whitfield to Priya Nair: approved the retention bonus payout: a one-time retention bonus paid to the platform team. Not recurring.

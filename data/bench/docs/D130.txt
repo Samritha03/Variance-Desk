@@ -1,0 +1,9 @@
+id: D130
+date: 2026-07-06
+type: email
+title: Estimate request: Coastal Parcel
+---
+From: Tom Reyes
+To: Marcus Hale
+
+Coastal Parcel sent a price estimate for follow-on work related to the port congestion rerouting. Quote only. Nothing has been ordered and nothing was charged this month.

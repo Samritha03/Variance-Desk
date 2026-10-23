@@ -1,0 +1,9 @@
+id: D247
+date: 2025-10-29
+type: email
+title: G&A: new role opening next month
+---
+From: HR
+To: Priya Nair
+
+Offer accepted for an open G&A role. Start date is the first of next month. No cost in the current month.

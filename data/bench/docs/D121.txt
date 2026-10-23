@@ -1,0 +1,9 @@
+id: D121
+date: 2025-04-10
+type: email
+title: Carrier notice: fuel surcharge
+---
+From: Elena Ortiz
+To: Dana Whitfield
+
+Elena Ortiz: Northline Freight notified us of a 14% fuel surcharge effective the first of the month. Finance should expect higher freight until it ends.

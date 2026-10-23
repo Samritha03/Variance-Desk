@@ -1,0 +1,9 @@
+id: D145
+date: 2025-07-16
+type: email
+title: Estimate request: Northgate Outfitters
+---
+From: Tom Reyes
+To: Marcus Hale
+
+Northgate Outfitters sent a price estimate for follow-on work related to the two enterprise orders. Quote only. Nothing has been ordered and nothing was charged this month.

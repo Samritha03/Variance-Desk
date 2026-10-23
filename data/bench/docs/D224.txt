@@ -1,0 +1,9 @@
+id: D224
+date: 2025-12-27
+type: email
+title: Proposal: expanded installation backlog (not approved)
+---
+From: Marcus Hale
+To: Priya Nair
+
+Proposal to add a second phase to the installation backlog with Install & Setup Services. This was reviewed and not approved, so no spend is planned. Revisit next year.
