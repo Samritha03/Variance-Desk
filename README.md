@@ -16,7 +16,7 @@ All data in this project is fictional.
 
 The math is done by code, never by the AI.
 
-![How Variance Desk works](docs/architecture.png)
+![How Variance Desk works](docs/architecture-pipeline.png)
 
 ## Run it
 
